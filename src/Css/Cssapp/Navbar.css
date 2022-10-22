@@ -12,13 +12,36 @@
     margin-left: 70px;
 }
 
+.navbar-links-b {
+    margin-left: 15px;
+    font-family: Fuzzy Bubbles;
+    font-size: 20px;
+}
+
+.navbar-links-b:hover {
+    padding: 10px;
+    color: #f9f9f9;
+    background-color: #102747;
+    border-radius: 10px;
+    transition: 0.2s;
+}
+
 .navbar-a {
     text-decoration: none;
+    font-family: Fuzzy Bubbles;
+    color: black; 
 }
 
 .navbar-a:hover {
     text-decoration: none;
     cursor: pointer;
     color: black;
-    
+}
+
+.title-navbar {
+    margin-right: 0%;
+}
+
+.navbar-container-main {
+    margin-top: 70px;
 }

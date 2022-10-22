@@ -7,14 +7,15 @@ import { Link } from "react-router-dom";
 
 function Navbar() {
   return (
-    <div className="">
-      <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+    <div className="navbar-container-main">
+      <nav className="navbar navbar-expand-lg navbar-light bg-light fixed-top">
         <div className="container">
           <Link to="/">
             <img className="Navbar-logo" src={Logo}></img>
           </Link>
+          <hr></hr>
           <button
-            class="navbar-toggler"
+            className="navbar-toggler bg-secondary"
             type="button"
             data-toggle="collapse"
             data-target="#navbarSupportedContent"
@@ -22,30 +23,51 @@ function Navbar() {
             aria-expanded="false"
             aria-label="Toggle navigation"
           >
-            <span class="navbar-toggler-icon"></span>
+            <span className="navbar-toggler-icon"></span>
           </button>
-
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
-              <li class="nav-item active">
-                <Link class="nav-link" to="/">
-                 <b>Home</b> 
+          <div className="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul className="navbar-nav mr-auto">
+              <li className="nav-item active">
+                <Link className="nav-link" to="/">
+                  <b className="navbar-links-b">Home</b>
                 </Link>
               </li>
-              <li class="nav-item active">
-                <Link class="nav-link" to="/products">
-                  <b>Products</b>
+              <li className="nav-item active">
+                <Link className="nav-link" to="/products">
+                  <b className="navbar-links-b">Productos</b>
                 </Link>
               </li>
-              <li class="nav-item active">
-                <Link class="nav-link" to="/about">
-                  <b>About</b>
+              <li className="nav-item active">
+                <Link className="nav-link" to="/services">
+                  <b className="navbar-links-b">Servicios</b>
+                </Link>
+              </li>
+              <li className="nav-item active">
+                <Link className="nav-link" to="/about">
+                  <b className="navbar-links-b">Nosotros</b>
+                </Link>
+              </li>
+              <li className="nav-item active">
+                <Link className="nav-link" to="/contact">
+                  <b className="navbar-links-b">Contacto</b>
                 </Link>
               </li>
             </ul>
-            <form class="form-inline my-2 my-lg-0">
-              <a className="mr-sm-2 navbar-a"><img className="Navbar-logo-red" src={Facebook}></img> Instagram</a>
-              <a className="mr-sm-2 navbar-a"><img className="Navbar-logo-red" src={Instagram}></img> Facebook</a>
+            <form className="form-inline my-2 my-lg-0">
+              <a
+                href="https://www.youtube.com/?hl=es-419"
+                className="mr-sm-2 navbar-a"
+                target="_blank"
+              >
+                <img className="Navbar-logo-red" src={Facebook}></img> Instagram
+              </a>
+              <a
+                href="https://www.youtube.com/?hl=es-419"
+                className="mr-sm-2 navbar-a"
+                target="_blank"
+              >
+                <img className="Navbar-logo-red" src={Instagram}></img> Facebook
+              </a>
             </form>
           </div>
         </div>

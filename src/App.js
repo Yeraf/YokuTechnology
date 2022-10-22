@@ -4,9 +4,9 @@ import RoutesReact from './RoutesReact';
 
 function App() {
   return (
-    <div className="App">
-      <RoutesReact></RoutesReact>
-    </div>
+    
+      <RoutesReact/>
+    
   );
 }
 
