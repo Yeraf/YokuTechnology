@@ -1,3 +1,22 @@
-.cards-styles {
-    max-width: 20rem;
+.container.div-home-title {
+    margin-top: 80px;
+}
+
+.div-home-title {
+    text-align: center;
+    font-family: Fuzzy Bubbles;
+    font-size: 20px;
+}
+
+.home-logo-img {
+    margin-right: 5px;
+    width: 40px;
+    height: 40px;
+}
+
+.home-logo-img-rotate {
+    margin-left: 5px;
+    width: 40px;
+    height: 40px;
+    transform: scaleX(-1);
 }

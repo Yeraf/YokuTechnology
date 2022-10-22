@@ -1,6 +1,7 @@
 .Navbar-logo {
     width: 40px;
     height: 40px;
+    margin-left: 5px;
 }
 
 .Navbar-logo-red {
@@ -44,4 +45,8 @@
 
 .navbar-container-main {
     margin-top: 70px;
+}
+
+.navbar-toggler.bg-secondary {
+    margin-right: 10px;
 }

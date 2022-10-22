@@ -2,7 +2,7 @@ import React from 'react'
 
 function Nosotros() {
   return (
-    <div>Nosotros</div>
+    <div className="container">Nosotros</div>
   )
 }
 

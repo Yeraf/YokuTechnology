@@ -6,6 +6,7 @@ import Products from "./Paginas/Productos";
 import Servicices from './Paginas/Servicios';
 import About from './Paginas/Nosotros';
 import Contact from './Paginas/Contacto';
+import BotonWhatsapp from "./CompStatics/BotonWhatsapp";
 
 function RoutesReact() {
   return (
@@ -19,6 +20,7 @@ function RoutesReact() {
         <Route exact path="/about" element={<About />}></Route>
         <Route exact path="/contact" element={<Contact />}></Route>
       </Routes>
+      <BotonWhatsapp/>
     </BrowserRouter>
   );
 }
