@@ -25,7 +25,7 @@ function Home() {
       <main className="container home-main-complete">
         <div class="card-deck">
           <div class="card">
-            <img className="img-cards-home" src={Reparacion} class="card-img-top" alt="..."></img>
+            <img className="img-cards-home card-img-top" src={Reparacion} alt="..."></img>
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">
@@ -39,7 +39,7 @@ function Home() {
             </div>
           </div>
           <div class="card">
-          <img className="img-cards-home" src={Hardware} class="card-img-top" alt="..."></img>
+          <img className="img-cards-home card-img-top" src={Hardware}  alt="..."></img>
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">
@@ -52,7 +52,7 @@ function Home() {
             </div>
           </div>
           <div class="card">
-          <img className="img-cards-home" src={Camaras} class="card-img-top" alt="..."></img>
+          <img className="img-cards-home card-img-top" src={Camaras}  alt="..."></img>
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">
@@ -70,7 +70,7 @@ function Home() {
       <main className="container home-main-complete">
         <div class="card-deck">
           <div class="card">
-            <img className="img-cards-home" src={PaginasWeb} class="card-img-top" alt="..."></img>
+            <img className="img-cards-home card-img-top" src={PaginasWeb}  alt="..."></img>
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">
@@ -84,7 +84,7 @@ function Home() {
             </div>
           </div>
           <div class="card">
-          <img className="img-cards-home" src={PaginasWeb} class="card-img-top" alt="..."></img>
+          <img className="img-cards-home card-img-top" src={PaginasWeb}  alt="..."></img>
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">
@@ -97,7 +97,7 @@ function Home() {
             </div>
           </div>
           <div class="card">
-          <img className="img-cards-home" src={PaginasWeb} class="card-img-top" alt="..."></img>
+          <img className="img-cards-home card-img-top" src={PaginasWeb}  alt="..."></img>
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">
