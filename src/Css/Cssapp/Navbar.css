@@ -1,7 +1,15 @@
 .Navbar-logo {
     width: 40px;
     height: 40px;
-    margin-left: 5px;
+    margin-left: 10px;
+}
+
+.Navbar-logo-rotate {
+    width: 40px;
+    height: 40px;
+    margin-left: 10px;
+    margin-right: 220px;
+    transform: scaleX(-1);
 }
 
 .Navbar-logo-red {
@@ -49,4 +57,13 @@
 
 .navbar-toggler.bg-secondary {
     margin-right: 10px;
+}
+
+@media screen and (max-width:1265px) {
+    .form-inline {
+        display: none;
+    }
+    .Navbar-logo-rotate {
+        margin: 0px 430px 0px 0px;
+    }
 }

@@ -53,14 +53,20 @@ function Navbar() {
                 </Link>
               </li>
             </ul>
+            <Link to="/">
+            <img className="Navbar-logo-rotate" src={Logo}></img>
+          </Link>
             <form className="form-inline my-2 my-lg-0">
+              <div>
               <a
                 href="https://www.youtube.com/?hl=es-419"
-                className="mr-sm-2 navbar-a"
+                className="mr-sm-2 navbar-a a-logo1"
                 target="_blank"
               >
-                <img className="Navbar-logo-red" src={Facebook}></img> Instagram
+                <img className="Navbar-logo-red logo1" src={Facebook}></img> Instagram
               </a>
+              </div>
+              <div>
               <a
                 href="https://www.youtube.com/?hl=es-419"
                 className="mr-sm-2 navbar-a"
@@ -68,6 +74,9 @@ function Navbar() {
               >
                 <img className="Navbar-logo-red" src={Instagram}></img> Facebook
               </a>
+              </div>
+              
+              
             </form>
           </div>
         </div>
