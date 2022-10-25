@@ -7,7 +7,7 @@ function Navbar() {
   return (
     <div className="navbar-container-main ">
       <nav className="navbar navbar-expand-lg navbar-dark bg-info fixed-top">
-        <div className="container">
+        <div className="container navbar-links-container">
           <Link to="/">
             <img className="Navbar-logo" src={Logo}></img>
           </Link>

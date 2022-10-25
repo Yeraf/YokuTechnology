@@ -76,4 +76,8 @@
     .Navbar-logo-img-rotate {
         display: none;
     }
+    .navbar-links-container {
+        text-align: center;
+    }
+
 }
