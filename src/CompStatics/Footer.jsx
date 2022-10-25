@@ -1,5 +1,10 @@
 import React from 'react';
 import '../Css/Cssapp/Footer.css';
+import Instagram from '../Img/Icons/instagram.png';
+import Facebook from '../Img/Icons/facebook.png';
+import WhatsApp from '../Img/Icons/whatsapp-green.png';
+import Ubicacion from '../Img/Icons/pin.png';
+import Email from '../Img/Icons/gmail.png';
 
 function Footer() {
   return (
@@ -8,36 +13,36 @@ function Footer() {
             <div className='row'>
                 {/* column1 */}
                 <div className='col'>
-                    <h4>THICC MEMES INC</h4>
+                    <h4>Redes Sociales</h4>
                     <ul className='list-unstyled'>
-                        <li>333-66-5789</li>
-                        <li>Muscow Russia</li>
-                        <li>123 Street South North</li>
+                        <li><img className='icons-general' src={Instagram}></img> Instagram</li>
+                        <li><img className='icons-general' src={Facebook}></img> Facebook</li>
+                        <li></li>
                     </ul>
                 </div>
                 {/* column2 */}
                 <div className='col'>
-                    <h4>STUFF</h4>
+                    <h4>Ubicación</h4>
                     <ul className='list-unstyled'>
-                        <li>DANK MEMES</li>
-                        <li>OTHER STUFF</li>
-                        <li>GUD STUFF</li>
+                        <li><img className='icons-general' src={Ubicacion}></img> San José, CR</li>
+                        <li></li>
+                        <li></li>
                     </ul>
                 </div>
                 {/* column3 */}
                 <div className='col'>
-                    <h4>WELL</h4>
+                    <h4>Contacto</h4>
                     <ul className='list-unstyled'>
-                        <li>DANK MEMES</li>
-                        <li>OTHER STUFF</li>
-                        <li>GUD STUFF</li>
+                    <li><img className='icons-general' src={WhatsApp}></img> 8726-1983</li>
+                        <li><img className='icons-general' src={Email}></img> studiosyoku@gmail.com</li>
+                        <li></li>
                     </ul>
                 </div>
             </div>
             <hr></hr>
             <div className='row'>
                 <p className='col-sm'>
-                    &copy; YokuStudios | All right reserved | Terms of Services | Privacy
+                    &copy; Developed by YokuStudios CR | All right reserved | Terms of Services | Privacy
                 </p>
             </div>
             <hr></hr>

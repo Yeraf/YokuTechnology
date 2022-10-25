@@ -38,6 +38,12 @@
   flex: 1;
 }
 
+.icons-general {
+  width: 20px;
+  height: 20px;
+  margin-bottom: 3px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
