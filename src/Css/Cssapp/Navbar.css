@@ -1,18 +1,14 @@
 .Navbar-logo {
-    width: 40px;
-    height: 40px;
+    width: 50px;
+    height: 50px;
     margin-left: 10px;
-}
-
-.nav-link {
-    padding: 0px;
 }
 
 .Navbar-logo-rotate {
     width: 40px;
     height: 40px;
     margin-left: 10px;
-    margin-right: 300px;
+    margin-right: 340px;
     transform: scaleX(-1);
 }
 
@@ -26,15 +22,16 @@
 }
 
 .navbar-links-b {
-    margin-left: 15px;
-    font-family: Fuzzy Bubbles;
+    padding-left: 10px;
+    font-family: 'Luckiest Guy';
     font-size: 20px;
+    color: rgb(49, 49, 49);
 }
 
 .navbar-links-b:hover {
-    /* padding: 5px; */
+    padding: 5px;
     color: #f9f9f9;
-    background-color: #102747;
+    background-color: #007c72;
     border-radius: 10px;
     transition: 0.2s;
 }
@@ -49,10 +46,6 @@
     text-decoration: none;
     cursor: pointer;
     color: black;
-}
-
-.title-navbar {
-    margin-right: 0%;
 }
 
 .navbar-container-main {
@@ -73,10 +66,14 @@
 }
 
 @media screen and (max-width:1400px) { 
-    .form-inline {
-        display: none;
-    }
+
     .Navbar-logo-rotate {
         margin: 0px 430px 0px 0px;
+    }
+}
+
+@media screen and (max-width:990px) { 
+    .Navbar-logo-img-rotate {
+        display: none;
     }
 }
