@@ -1,11 +1,19 @@
 import React from "react";
+import '../Css/Cssapp/Productos.css';
+import Monitor from '../Img/Products/product-monitor.jpg';
+import Mouse from '../Img/Products/product-mouse.jpg';
+import Teclado from '../Img/Products/product-teclado.jpg';
 
 function Productos() {
   return (
     <div className="container">
+      <div className="h3-productos-title">
+        <h3>Algunos de nuestros productos</h3>
+        <h6>consulte por los combos de PC!!</h6>
+      </div>
       <div class="card-deck">
         <div class="card">
-          <img src="..." class="card-img-top" alt="..."></img>
+          <img src={Monitor} class="card-img-top" alt="..."></img>
           <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">
@@ -19,7 +27,7 @@ function Productos() {
           </div>
         </div>
         <div class="card">
-          <img src="..." class="card-img-top" alt="..."></img>
+          <img src={Mouse} class="card-img-top" alt="..."></img>
           <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">
@@ -32,7 +40,7 @@ function Productos() {
           </div>
         </div>
         <div class="card">
-          <img src="..." class="card-img-top" alt="..."></img>
+          <img src={Teclado} class="card-img-top" alt="..."></img>
           <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">
@@ -49,7 +57,7 @@ function Productos() {
       <hr />
       <div class="card-deck">
         <div class="card">
-          <img src="..." class="card-img-top" alt="..."></img>
+          <img src={Monitor} class="card-img-top" alt="..."></img>
           <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">
@@ -63,7 +71,7 @@ function Productos() {
           </div>
         </div>
         <div class="card">
-          <img src="..." class="card-img-top" alt="..."></img>
+          <img src={Mouse} class="card-img-top" alt="..."></img>
           <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">
@@ -76,7 +84,7 @@ function Productos() {
           </div>
         </div>
         <div class="card">
-          <img src="..." class="card-img-top" alt="..."></img>
+          <img src={Teclado} class="card-img-top" alt="..."></img>
           <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">
@@ -93,7 +101,7 @@ function Productos() {
       <hr />
       <div class="card-deck">
         <div class="card">
-          <img src="..." class="card-img-top" alt="..."></img>
+          <img src={Monitor} class="card-img-top" alt="..."></img>
           <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">
@@ -107,7 +115,7 @@ function Productos() {
           </div>
         </div>
         <div class="card">
-          <img src="..." class="card-img-top" alt="..."></img>
+          <img src={Mouse} class="card-img-top" alt="..."></img>
           <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">
@@ -120,7 +128,7 @@ function Productos() {
           </div>
         </div>
         <div class="card">
-          <img src="..." class="card-img-top" alt="..."></img>
+          <img src={Teclado} class="card-img-top" alt="..."></img>
           <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">
@@ -137,7 +145,7 @@ function Productos() {
       <hr />
       <div class="card-deck">
         <div class="card">
-          <img src="..." class="card-img-top" alt="..."></img>
+          <img src={Monitor} class="card-img-top" alt="..."></img>
           <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">
@@ -151,7 +159,7 @@ function Productos() {
           </div>
         </div>
         <div class="card">
-          <img src="..." class="card-img-top" alt="..."></img>
+          <img src={Mouse} class="card-img-top" alt="..."></img>
           <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">
@@ -164,7 +172,7 @@ function Productos() {
           </div>
         </div>
         <div class="card">
-          <img src="..." class="card-img-top" alt="..."></img>
+          <img src={Teclado} class="card-img-top" alt="..."></img>
           <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">
