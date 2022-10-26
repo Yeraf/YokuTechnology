@@ -24,6 +24,13 @@
   color: white;
 }
 
+/* .content-wrap {
+  background-image: url('/src/Img/Background/img-technology-1.jpg');
+  background-size: 100vh 100vw;
+  background-attachment: fixed;
+  margin: 0%;
+} */
+
 .App-link {
   color: #61dafb;
 }

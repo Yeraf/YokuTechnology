@@ -54,6 +54,23 @@
     height: 300px;
 }
 
+.article-home-video {
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+}
+
+.div-video-home {
+    margin: auto;
+}
+
+.div-home-text {
+    text-align: center;
+    margin: auto;
+}
+
+
 @media screen and (max-width:480px) {
     .div-home-title {
         font-size: 20px;
@@ -73,6 +90,13 @@
         text-align: center;
         padding-bottom: 10px;
     }
+    .article-home-video  {
+        display: inline;
+    }
 
+    /* .div-video-home {
+        width: 300px;
+        margin-left: 0px;
+    } */
 }
 
