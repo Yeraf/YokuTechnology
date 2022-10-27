@@ -16,8 +16,7 @@ function Nosotros() {
         <img src={Logo} className="icons-general-rotate-nosotros"></img>
         <hr class="my-4"></hr>
         <p>
-          It uses utility classes for typography and spacing to space content
-          out within the larger container.
+        Somos una tienda virtual, para contratar nuestros servicios puede comunicarse al WhatsApp 8726-1983..
         </p>
       </div>
       <hr></hr>
