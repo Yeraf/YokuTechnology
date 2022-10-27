@@ -5,7 +5,7 @@ import Hardware from "../Img/Cards/img-hardware-2.jpg";
 import Camaras from "../Img/Cards/img-camaras-1.jpg";
 import PaginasWeb from "../Img/Cards/img-paginas-web-2.jpg";
 import Red from "../Img/Cards/Cables-de-red1.jpg";
-import Disponible from "../Img/Cards/Cables-de-red1.jpg";
+import Formateo from "../Img/Cards/Formateo-de-computadoras.jpg";
 
 function Home() {
   return (
@@ -125,14 +125,13 @@ function Home() {
           <div class="card">
             <img
               className="img-cards-home card-img-top"
-              src={PaginasWeb}
+              src={Formateo}
               alt="..."
             ></img>
             <div class="card-body">
-              <h5 class="card-title">Disponible</h5>
+              <h5 class="card-title">Formateo de computadoras</h5>
               <p class="card-text">
-                This is a wider card with supporting text below as a natural
-                lead-in to additional content.
+                Formateamos su PC por daño de software, virus o por espacio.
               </p>
               <p class="card-text">
                 <small class="text-muted">
