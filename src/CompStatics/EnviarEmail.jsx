@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 function EnviarEmail() {
   return (
@@ -6,4 +6,4 @@ function EnviarEmail() {
   )
 }
 
-export default EnviarEmail
+export default EnviarEmail;
