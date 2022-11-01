@@ -48,7 +48,7 @@ function Productos() {
           <div class="card">
             <img src={Promo} class="card-img-top" alt="..."></img>
             <div class="card-body">
-            <h5 className="card-title productos-h1"><img className="productos-emogis" src={Side}></img>Promo Club<img className="productos-emogis" src={Side}></img></h5>
+            <h5 className="card-title productos-h1"><img className="productos-emogis" src={Side}></img>Promo Mantenimiento<img className="productos-emogis" src={Side}></img></h5>
               <p class="card-text">
                 This is a wider card with supporting text below as a natural
                 lead-in to additional content. This card has even longer content

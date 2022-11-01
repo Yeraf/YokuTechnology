@@ -155,13 +155,10 @@ function Home() {
           ></iframe>
         </div>
         <div className="container div-home-text">
-          <h1>Video de reparación</h1>
-          <h4>Reparación de equipos</h4>
+          <h1>Servicios Yoku</h1>
+          <h4>Reparación y mantenimiento de equipos</h4>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi
-            quisquam natus sunt minus vitae sed autem aliquid corporis minima
-            eum laudantium in officia esse assumenda ad iure, sequi
-            necessitatibus accusamus!
+          Las operaciones de mantenimiento preventivo son esenciales para el éxito de su negocio, ya que prolongan la vida útil de los activos y evita la necesidad de adquirir nuevos equipos.Las computadoras requieren de un mantenimiento físico (Hardware) que cubre la limpieza de componentes (tanto por fuera como por dentro).
           </p>
         </div>
       </article>
