@@ -4,6 +4,10 @@
     margin-left: 10px;
 }
 
+.color-navbar {
+    background-color: #002a47;
+}
+
 .Navbar-logo-rotate {
     width: 40px;
     height: 40px;
@@ -23,9 +27,10 @@
 
 .navbar-links-b {
     padding-left: 10px;
-    font-family: 'Luckiest Guy';
+    /* font-family: 'Luckiest Guy'; */
     font-size: 20px;
-    color: rgb(49, 49, 49);
+    /* color: rgb(22, 22, 22); */
+    color: #fff;
 }
 
 .navbar-links-b:hover {
@@ -38,14 +43,16 @@
 
 .navbar-a {
     text-decoration: none;
-    font-family: Fuzzy Bubbles;
-    color: black; 
+    /* font-family: Fuzzy Bubbles; */
+    /* color: black;  */
+    color: #fff;
 }
 
 .navbar-a:hover {
     text-decoration: none;
     cursor: pointer;
-    color: black;
+    /* color: black; */
+    color: #fff;
 }
 
 .navbar-container-main {
