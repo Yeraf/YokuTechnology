@@ -13,12 +13,13 @@ function Home() {
       <div className="div-home-complete">
         <div className="home-img-container">
           <article className="container article-home-intro">
-            <h3 className="home-title-h3">Yoku Technology le ofrece</h3>
+            <h3 className="home-title-h3">Noah Tecnology les ofrece</h3>
             <ul>
               <li>Reparación y mantenimiento de computadoras.</li>
               <li>Venta de hardware para su PC o laptop.</li>
               <li>Instalación de cámaras circuito cerrado.</li>
               <li>Creación de páginas Web.</li>
+              <li>Sistema de facturación PDV <a className="link_noah" href="https://noah.cr/login" target={"_blank"}>noah.cr</a></li>
               <li>Entre otros servicios.</li>
             </ul>
           </article>

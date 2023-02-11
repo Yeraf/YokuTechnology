@@ -25,6 +25,13 @@
   color: white;
 }
 
+.link_noah {
+  color: rgb(0, 219, 235);
+  font-size: 20px;
+  margin-left: 5px;
+  text-decoration: none;
+}
+
 /* .content-wrap {
   background-image: url('/src/Img/Background/img-technology-1.jpg');
   background-size: 100vh 100vw;

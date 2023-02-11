@@ -34,7 +34,7 @@ function Footer() {
                     <h4>Contacto</h4>
                     <ul className='list-unstyled'>
                     <li><img className='icons-general' src={WhatsApp}></img> 8726-1983</li>
-                        <li><img className='icons-general' src={Email}></img> studiosyoku@gmail.com</li>
+                        <li><img className='icons-general' src={Email}></img> infotecnonoah@gmail.com</li>
                         <li></li>
                     </ul>
                 </div>
@@ -42,7 +42,7 @@ function Footer() {
             <hr></hr>
             <div className='row'>
                 <p className='col-sm'>
-                    &copy; Developed by YokuStudios CR | All right reserved | Terms of Services | Privacy
+                    &copy; Developed by YokuStudios CR | All right reserved | Terms of Services | Privacy | studiosyoku@gmail.com
                 </p>
             </div>
             <hr></hr>

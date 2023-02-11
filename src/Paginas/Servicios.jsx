@@ -12,9 +12,9 @@ export class Servicios extends Component {
           <div class="card">
             <img src={Reparacion} class="card-img-top" alt="..."></img>
             <div class="card-body">
-              <h5 class="card-title">¿se te dañó la compu?</h5>
+              <h5 class="card-title">¿Se te dañó la compu?</h5>
               <p class="card-text">
-                Yoku Technology te ayuda a resolver, nuestros profecionales trabajaran para solucionar el problema.
+                Noah Technology te ayuda a resolver, nuestros profecionales trabajaran para solucionar el problema.
               </p>
             </div>
           </div>
@@ -34,7 +34,7 @@ export class Servicios extends Component {
               <p>Somos una empresa seria que trabaja de la forma más profesional para garantizar los mejores resultados.</p>
               <footer class="blockquote-footer text-white">
                 <small>
-                  Yoku {" "}
+                  Noah {" "}
                   <cite title="Source Title">Technology.</cite>
                 </small>
               </footer>
@@ -68,7 +68,7 @@ export class Servicios extends Component {
           <div class="card">
             <img src={Camaras} class="card-img-top" alt="..."></img>
             <div class="card-body">
-              <h5 class="card-title">¿ocupas video seguridad?</h5>
+              <h5 class="card-title">¿Ocupas video seguridad?</h5>
               <p class="card-text">
               Nuestro equipo le soluciona, instalamos cámaras de seguridad en circuito cerrado, grabación 24/7 tiempo real que puedes ver desde su teléfono celular.
               </p>
