@@ -1,8 +1,8 @@
 {
-  "name": "yokutechnology",
+  "homepage": "https://Yeraf.github/YokuTechnology",
+  "name": "noahtecnology",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Yeraf.github.io/YokuTechnology",
   "dependencies": {
     "@emailjs/browser": "^3.7.0",
     "@testing-library/jest-dom": "^5.16.5",
