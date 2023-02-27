@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/YokuTechnology/static/css/main.b935dfe4.css",
-    "main.js": "/YokuTechnology/static/js/main.05da0694.js",
+    "main.js": "/YokuTechnology/static/js/main.f6b9b85d.js",
     "static/js/787.21c3381c.chunk.js": "/YokuTechnology/static/js/787.21c3381c.chunk.js",
     "static/media/background-tecnologia2.png": "/YokuTechnology/static/media/background-tecnologia2.4dfd47d8f7a65883d2d2.png",
     "static/media/camaras-servicios3.jpg": "/YokuTechnology/static/media/camaras-servicios3.57d55a4e874124fcc7b9.jpg",
@@ -29,11 +29,11 @@
     "static/media/gmail.png": "/YokuTechnology/static/media/gmail.a2f2146f929409405da0.png",
     "index.html": "/YokuTechnology/index.html",
     "main.b935dfe4.css.map": "/YokuTechnology/static/css/main.b935dfe4.css.map",
-    "main.05da0694.js.map": "/YokuTechnology/static/js/main.05da0694.js.map",
+    "main.f6b9b85d.js.map": "/YokuTechnology/static/js/main.f6b9b85d.js.map",
     "787.21c3381c.chunk.js.map": "/YokuTechnology/static/js/787.21c3381c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b935dfe4.css",
-    "static/js/main.05da0694.js"
+    "static/js/main.f6b9b85d.js"
   ]
 }
