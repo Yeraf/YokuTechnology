@@ -16,7 +16,7 @@ function Nosotros() {
         <img src={Logo} className="icons-general-rotate-nosotros"></img>
         <hr class="my-4"></hr>
         <p>
-        Somos una tienda virtual, para contratar nuestros servicios puede comunicarse al WhatsApp 8726-1983..
+        Somos una tienda virtual y física, para contratar nuestros servicios puede comunicarse al WhatsApp 8726-1983 y con gusto les atenderemos.
         </p>
       </div>
       <hr></hr>

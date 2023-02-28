@@ -156,7 +156,7 @@ function Home() {
           ></iframe>
         </div>
         <div className="container div-home-text">
-          <h1>Servicios Yoku</h1>
+          <h1>Servicios Noah Technology</h1>
           <h4>Reparación y mantenimiento de equipos</h4>
           <p>
           Las operaciones de mantenimiento preventivo son esenciales para el éxito de su negocio, ya que prolongan la vida útil de los activos y evita la necesidad de adquirir nuevos equipos. Las computadoras requieren de un mantenimiento físico (Hardware) que cubre la limpieza de componentes (tanto por fuera como por dentro).

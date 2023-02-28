@@ -42,7 +42,7 @@ export class Servicios extends Component {
           </div>
           <div class="card text-center">
             <div class="card-body">
-              <h5 class="card-title">Yoku Technology</h5>
+              <h5 class="card-title">Noah Technology</h5>
               <p class="card-text">
               Tecnología a su alcance y con precios accesibles..
               </p>
