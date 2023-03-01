@@ -9,7 +9,16 @@ import Side from "../Img/Emogis/coolside.png";
 import Promo from "../Img/Products/mantenimiento-de-pc.jpg";
 import Kit from "../Img/Products/kit-pc.jpg";
 import DellPromo from "../Img/Products/dell-promo.png";
-import Audifono from "../Img/Products/audifono-maxell.jpg"
+import Audifono from "../Img/Products/audifono-maxell.jpg";
+import DiscoDuro from "../Img/Products/disco-estado-solido.jpg";
+import ComboMouseTeclado from "../Img/Products/combo-mouse-teclado.png";
+import SillaGaming from "../Img/Products/silla-gaming.png";
+import CamaraWeb from "../Img/Products/webcam.jpg";
+import Cable from "../Img/Products/cable-tipo-c.png";
+import Cargador from "../Img/Products/maxell-cargador.png";
+import Mochila from "../Img/Products/mochila.jpg";
+import Parlante from "../Img/Products/parlante.jpg";
+import UPS from "../Img/Products/ups.jpg";
 
 function Productos() {
   return (
@@ -86,10 +95,10 @@ function Productos() {
           <div class="card-body">
             <h5 class="card-title">Audífono Maxell</h5>
             <p class="card-text">
-              Maxell audífono  sms-10 Solid 2 metalizado Mid Size Ruby Rojo.
+              Maxell audífono sms-10 Solid 2 metalizado Mid Size Ruby Rojo.
             </p>
             <p class="card-text">
-            <small class="text-muted">Precio de venta ...</small>
+              <small class="text-muted">Precio de venta ...</small>
             </p>
           </div>
         </div>
@@ -119,13 +128,11 @@ function Productos() {
       <hr />
       <div class="card-deck">
         <div class="card">
-          <img src={Monitor} class="card-img-top" alt="..."></img>
+          <img src={DiscoDuro} class="card-img-top" alt="..."></img>
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
+            <h5 class="card-title">Disco duro Kingston</h5>
             <p class="card-text">
-              This is a longer card with supporting text below as a natural
-              lead-in to additional content. This content is a little bit
-              longer.
+              Disco duro Kingston disco de estado solido SA400S37/480G.
             </p>
             <p class="card-text">
               <small class="text-muted">Precio de venta ...</small>
@@ -133,12 +140,11 @@ function Productos() {
           </div>
         </div>
         <div class="card">
-          <img src={Mouse} class="card-img-top" alt="..."></img>
+          <img src={ComboMouseTeclado} class="card-img-top" alt="..."></img>
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
+            <h5 class="card-title">Combo Teclado Mouse</h5>
             <p class="card-text">
-              This card has supporting text below as a natural lead-in to
-              additional content.
+              Combo Maxell teclado combo con mouse alambrico wrkbc-10 347111.
             </p>
             <p class="card-text">
               <small class="text-muted">Precio de venta ...</small>
@@ -146,13 +152,11 @@ function Productos() {
           </div>
         </div>
         <div class="card">
-          <img src={Teclado} class="card-img-top" alt="..."></img>
+          <img src={SillaGaming} class="card-img-top" alt="..."></img>
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
+            <h5 class="card-title">Silla Gaming</h5>
             <p class="card-text">
-              This is a wider card with supporting text below as a natural
-              lead-in to additional content. This card has even longer content
-              than the first to show that equal height action.
+              Silla Gaming Trust silla gaming gxt 708r resto rojo.
             </p>
             <p class="card-text">
               <small class="text-muted">Precio de venta ...</small>
@@ -163,13 +167,11 @@ function Productos() {
       <hr />
       <div class="card-deck">
         <div class="card">
-          <img src={Monitor} class="card-img-top" alt="..."></img>
+          <img src={CamaraWeb} class="card-img-top" alt="..."></img>
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
+            <h5 class="card-title">Cámara Web</h5>
             <p class="card-text">
-              This is a longer card with supporting text below as a natural
-              lead-in to additional content. This content is a little bit
-              longer.
+              Camara Web trust camara web video hd 720 p trino usb negro.
             </p>
             <p class="card-text">
               <small class="text-muted">Precio de venta ...</small>
@@ -177,12 +179,11 @@ function Productos() {
           </div>
         </div>
         <div class="card">
-          <img src={Mouse} class="card-img-top" alt="..."></img>
+          <img src={Cable} class="card-img-top" alt="..."></img>
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
+            <h5 class="card-title">Cable tipo C</h5>
             <p class="card-text">
-              This card has supporting text below as a natural lead-in to
-              additional content.
+              Cable Maxell cable usb/tipo c de 1.8m trenzado negro.
             </p>
             <p class="card-text">
               <small class="text-muted">Precio de venta ...</small>
@@ -190,16 +191,15 @@ function Productos() {
           </div>
         </div>
         <div class="card">
-          <img src={Teclado} class="card-img-top" alt="..."></img>
+          <img src={Cargador} class="card-img-top" alt="..."></img>
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
+            <h5 class="card-title">Cargador Maxell</h5>
             <p class="card-text">
-              This is a wider card with supporting text below as a natural
-              lead-in to additional content. This card has even longer content
-              than the first to show that equal height action.
+              Cargador Maxell cargador dusb-c3 usb car charger 3 port type c
+              charge 3.4a/3a.
             </p>
             <p class="card-text">
-              <small class="text-muted">Last updated 3 mins ago</small>
+              <small class="text-muted">Precio de venta ...</small>
             </p>
           </div>
         </div>
@@ -207,87 +207,36 @@ function Productos() {
       <hr />
       <div class="card-deck">
         <div class="card">
-          <img src={Monitor} class="card-img-top" alt="..."></img>
+          <img src={Mochila} class="card-img-top" alt="..."></img>
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
+            <h5 class="card-title">Mochila Targus</h5>
+            <p class="card-text">Mochila Targus 15.6 intellect advanced Bp.</p>
             <p class="card-text">
-              This is a longer card with supporting text below as a natural
-              lead-in to additional content. This content is a little bit
-              longer.
-            </p>
-            <p class="card-text">
-              <small class="text-muted">Last updated 3 mins ago</small>
+              <small class="text-muted">Precio de venta ...</small>
             </p>
           </div>
         </div>
         <div class="card">
-          <img src={Mouse} class="card-img-top" alt="..."></img>
+          <img src={Parlante} class="card-img-top" alt="..."></img>
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
+            <h5 class="card-title">Parlante Maxell</h5>
             <p class="card-text">
-              This card has supporting text below as a natural lead-in to
-              additional content.
+            Parlante Maxell ss-120 usb micro Parlante Estereo Negro.
             </p>
             <p class="card-text">
-              <small class="text-muted">Last updated 3 mins ago</small>
+              <small class="text-muted">Precio de venta ...</small>
             </p>
           </div>
         </div>
         <div class="card">
-          <img src={Teclado} class="card-img-top" alt="..."></img>
+          <img src={UPS} class="card-img-top" alt="..."></img>
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
+            <h5 class="card-title">Batería APC</h5>
             <p class="card-text">
-              This is a wider card with supporting text below as a natural
-              lead-in to additional content. This card has even longer content
-              than the first to show that equal height action.
+            Batería APC ups 425va negra 6 entradas. 120v lam be425M-lm.
             </p>
             <p class="card-text">
-              <small class="text-muted">Last updated 3 mins ago</small>
-            </p>
-          </div>
-        </div>
-      </div>
-      <hr />
-      <div class="card-deck">
-        <div class="card">
-          <img src={Monitor} class="card-img-top" alt="..."></img>
-          <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">
-              This is a longer card with supporting text below as a natural
-              lead-in to additional content. This content is a little bit
-              longer.
-            </p>
-            <p class="card-text">
-              <small class="text-muted">Last updated 3 mins ago</small>
-            </p>
-          </div>
-        </div>
-        <div class="card">
-          <img src={Mouse} class="card-img-top" alt="..."></img>
-          <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">
-              This card has supporting text below as a natural lead-in to
-              additional content.
-            </p>
-            <p class="card-text">
-              <small class="text-muted">Last updated 3 mins ago</small>
-            </p>
-          </div>
-        </div>
-        <div class="card">
-          <img src={Teclado} class="card-img-top" alt="..."></img>
-          <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">
-              This is a wider card with supporting text below as a natural
-              lead-in to additional content. This card has even longer content
-              than the first to show that equal height action.
-            </p>
-            <p class="card-text">
-              <small class="text-muted">Last updated 3 mins ago</small>
+              <small class="text-muted">Precio de venta ...</small>
             </p>
           </div>
         </div>
