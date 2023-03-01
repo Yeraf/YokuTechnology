@@ -15,7 +15,8 @@ function Footer() {
                 <div className='col'>
                     <h4>Redes Sociales</h4>
                     <ul className='list-unstyled'>
-                        <li><img className='icons-general' src={Instagram}></img> Instagram</li>
+                        <li><img className='icons-general' src={Instagram}></img><a href='https://www.instagram.com/' target='_blank' className='link-instagram'
+                         > Instagram</a></li>
                         <li><img className='icons-general' src={Facebook}></img> Facebook</li>
                         <li></li>
                     </ul>
@@ -24,7 +25,7 @@ function Footer() {
                 <div className='col'>
                     <h4>Ubicación</h4>
                     <ul className='list-unstyled'>
-                        <li><img className='icons-general' src={Ubicacion}></img> San José, CR</li>
+                        <li><img className='icons-general' src={Ubicacion}></img> San José, CR , Alajuelita.</li>
                         <li></li>
                         <li></li>
                     </ul>

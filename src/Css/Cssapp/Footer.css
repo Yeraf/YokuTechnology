@@ -7,3 +7,12 @@
     width: 100%;
     text-align: center;
 }
+
+.link-instagram{
+    text-decoration: none;
+    color: #fff;
+}
+
+.link-instagram:hover {
+    text-decoration: none;
+}

@@ -7,7 +7,8 @@ function BotonWhatsapp() {
     <div>
       <div>
         <a
-          href="https://api.whatsapp.com/send?phone=87261983"
+            href="https://wa.me/87261983"
+        //  href="https://api.whatsapp.com/send?phone=+506-87261983"
           className="btn-wsp"
           target="_blank">
           <i className="icon-whatsapp">
