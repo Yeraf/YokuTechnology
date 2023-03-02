@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/YokuTechnology/static/css/main.4dbb3584.css",
-    "main.js": "/YokuTechnology/static/js/main.74d6af83.js",
+    "main.js": "/YokuTechnology/static/js/main.2c380d61.js",
     "static/js/787.21c3381c.chunk.js": "/YokuTechnology/static/js/787.21c3381c.chunk.js",
     "static/media/background-tecnologia2.png": "/YokuTechnology/static/media/background-tecnologia2.4dfd47d8f7a65883d2d2.png",
     "static/media/maxell-cargador.png": "/YokuTechnology/static/media/maxell-cargador.fcc9b138b889c6093b3b.png",
@@ -41,11 +41,11 @@
     "static/media/gmail.png": "/YokuTechnology/static/media/gmail.a2f2146f929409405da0.png",
     "index.html": "/YokuTechnology/index.html",
     "main.4dbb3584.css.map": "/YokuTechnology/static/css/main.4dbb3584.css.map",
-    "main.74d6af83.js.map": "/YokuTechnology/static/js/main.74d6af83.js.map",
+    "main.2c380d61.js.map": "/YokuTechnology/static/js/main.2c380d61.js.map",
     "787.21c3381c.chunk.js.map": "/YokuTechnology/static/js/787.21c3381c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4dbb3584.css",
-    "static/js/main.74d6af83.js"
+    "static/js/main.2c380d61.js"
   ]
 }
