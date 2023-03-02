@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/YokuTechnology/static/css/main.4dbb3584.css",
-    "main.js": "/YokuTechnology/static/js/main.2c380d61.js",
+    "main.js": "/YokuTechnology/static/js/main.d33ec102.js",
     "static/js/787.21c3381c.chunk.js": "/YokuTechnology/static/js/787.21c3381c.chunk.js",
     "static/media/background-tecnologia2.png": "/YokuTechnology/static/media/background-tecnologia2.4dfd47d8f7a65883d2d2.png",
     "static/media/maxell-cargador.png": "/YokuTechnology/static/media/maxell-cargador.fcc9b138b889c6093b3b.png",
@@ -9,7 +9,10 @@
     "static/media/dell-promo.png": "/YokuTechnology/static/media/dell-promo.3f1b473b931380df42ce.png",
     "static/media/camaras-servicios3.jpg": "/YokuTechnology/static/media/camaras-servicios3.57d55a4e874124fcc7b9.jpg",
     "static/media/silla-gaming.png": "/YokuTechnology/static/media/silla-gaming.8417bbdc9d46d39dc5e1.png",
+    "static/media/expertos-redes.jpeg": "/YokuTechnology/static/media/expertos-redes.81020f129d15735e001a.jpeg",
     "static/media/mouse-silver.png": "/YokuTechnology/static/media/mouse-silver.8aa07270a96bb6f5401b.png",
+    "static/media/expertos-sistemas.jpeg": "/YokuTechnology/static/media/expertos-sistemas.6db1caa91b38999355a9.jpeg",
+    "static/media/expertos-tecnologia.jpeg": "/YokuTechnology/static/media/expertos-tecnologia.30cc04dbaea223863f91.jpeg",
     "static/media/mochila.jpg": "/YokuTechnology/static/media/mochila.0fd50f99ebd8314733ab.jpg",
     "static/media/kit-pc.jpg": "/YokuTechnology/static/media/kit-pc.87a76337b2baa37eecaf.jpg",
     "static/media/combo-mouse-teclado.png": "/YokuTechnology/static/media/combo-mouse-teclado.e76acd12986066ddcd6f.png",
@@ -41,11 +44,11 @@
     "static/media/gmail.png": "/YokuTechnology/static/media/gmail.a2f2146f929409405da0.png",
     "index.html": "/YokuTechnology/index.html",
     "main.4dbb3584.css.map": "/YokuTechnology/static/css/main.4dbb3584.css.map",
-    "main.2c380d61.js.map": "/YokuTechnology/static/js/main.2c380d61.js.map",
+    "main.d33ec102.js.map": "/YokuTechnology/static/js/main.d33ec102.js.map",
     "787.21c3381c.chunk.js.map": "/YokuTechnology/static/js/787.21c3381c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4dbb3584.css",
-    "static/js/main.2c380d61.js"
+    "static/js/main.d33ec102.js"
   ]
 }
