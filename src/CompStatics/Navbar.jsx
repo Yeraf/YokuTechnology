@@ -27,7 +27,7 @@ function Navbar() {
             <ul className="navbar-nav  mx-auto">
               <li className="nav-item active">
                 <Link className="nav-link" to="/">
-                  <b className="navbar-links-b">Home</b>
+                  <b className="navbar-links-b">Inicio</b>
                 </Link>
               </li>
               <li className="nav-item active">

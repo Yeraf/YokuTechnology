@@ -17,7 +17,7 @@ function RoutesReact() {
         <Navbar />
         <Routes>
           <Route exact index path="/" element={<Home />}></Route>
-          <Route exact index path="/YokuTechnology" element={<Home />}></Route>
+          <Route exact index path="/YokuTechnology/" element={<Home />}></Route>
           <Route exact path="/products" element={<Products />}></Route>
           <Route exact path="/services" element={<Servicices />}></Route>
           <Route exact path="/about" element={<About />}></Route>
