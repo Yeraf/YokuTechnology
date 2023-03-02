@@ -15,7 +15,7 @@ function Footer() {
                 <div className='col'>
                     <h4>Redes Sociales</h4>
                     <ul className='list-unstyled'>
-                        <li><img className='icons-general' src={Instagram}></img><a href='https://www.instagram.com/' target='_blank' className='link-instagram'
+                        <li><img className='icons-general' src={Instagram}></img><a href='https://www.instagram.com/techno.noah/' target='_blank' className='link-instagram'
                          > Instagram</a></li>
                         <li><img className='icons-general' src={Facebook}></img> Facebook</li>
                         <li></li>
