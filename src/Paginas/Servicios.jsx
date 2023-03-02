@@ -11,6 +11,7 @@ export class Servicios extends Component {
   render() {
     return (
       <div className="container">
+        <hr />
         <div class="row row-cols-1 row-cols-md-3 g-4">
           <div class="col">
             <div class="card h-100">
@@ -28,7 +29,6 @@ export class Servicios extends Component {
             </div>
           </div>
         </div>
-
         <hr />
         <div class="card-columns">
           <div class="card">
@@ -115,6 +115,7 @@ export class Servicios extends Component {
             </blockquote>
           </div>
         </div>
+        <hr />
       </div>
     );
   }
