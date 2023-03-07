@@ -1,6 +1,7 @@
 import React from "react";
 import "../Css/Cssapp/Navbar.css";
-import Logo from "../Img/Logos/llama3.png";
+import Logo from "../Img/Logos/logo-website.png";
+// import Logo from "../Img/Logos/logonoah.png";
 import { Link } from "react-router-dom";
 
 function Navbar() {
