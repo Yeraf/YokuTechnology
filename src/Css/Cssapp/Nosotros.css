@@ -4,8 +4,8 @@
 }
 
 .icons-general-nosotros {
-    width: 50px;
-    height: 50px;
+    width: 150px;
+    height: 100px;
     margin-bottom: 3px;
   }
   
@@ -14,4 +14,8 @@
     height: 50px;
     margin-bottom: 3px;
     rotate: x(-1);
+  }
+
+  .text-nosotros-somos {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }

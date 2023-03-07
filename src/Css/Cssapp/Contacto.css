@@ -45,8 +45,19 @@
     max-width: 100%;
 }
 
+/* .contact-div-complete {
+    background-image: url('/src/Img/Contacto/fondo-contact.jpg');
+} */
+
 @media (max-width:480px) {
     .form-contacto {
         width: 100%;
+    }
+}
+
+@media (min-width:480px) {
+    .form-contacto {
+        width: 90%;
+        margin-top: 10%;
     }
 }

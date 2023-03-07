@@ -19,6 +19,7 @@ function Contacto() {
   };
 
   return (
+    <div className="contact-div-complete">
     <div className="container mx-auto form-contacto-complete">
       <form className="form-contacto" id="form" onSubmit={sendEmail}>
         <h2 className="h2-contacto">Contacto</h2>
@@ -60,6 +61,7 @@ function Contacto() {
           value="ENVIAR MENSAJE"
         ></input>
       </form>
+    </div>
     </div>
   );
 }

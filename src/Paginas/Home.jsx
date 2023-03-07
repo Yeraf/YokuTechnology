@@ -14,7 +14,7 @@ function Home() {
         <div className="home-img-container">
           <article className="container article-home-intro">
             <h3 className="home-title-h3">Noah Technology les ofrece</h3>
-            <ul>
+            <ul className="ul-home-list"> 
               <li>Reparación y mantenimiento de computadoras.</li>
               <li>Venta de hardware para su PC o laptop.</li>
               <li>Instalación de cámaras circuito cerrado.</li>

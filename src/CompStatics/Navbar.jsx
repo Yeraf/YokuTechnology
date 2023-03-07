@@ -27,27 +27,27 @@ function Navbar() {
             <ul className="navbar-nav  mx-auto">
               <li className="nav-item active">
                 <Link className="nav-link" to="/">
-                  <b className="navbar-links-b">Inicio</b>
+                  <b className="navbar-links-b">INICIO</b>
                 </Link>
               </li>
               <li className="nav-item active">
                 <Link className="nav-link" to="/products">
-                  <b className="navbar-links-b">Productos</b>
+                  <b className="navbar-links-b">PRODUCTOS</b>
                 </Link>
               </li>
               <li className="nav-item active">
                 <Link className="nav-link" to="/services">
-                  <b className="navbar-links-b">Servicios</b>
+                  <b className="navbar-links-b">SERVICIOS</b>
                 </Link>
               </li>
               <li className="nav-item active">
                 <Link className="nav-link" to="/about">
-                  <b className="navbar-links-b">Nosotros</b>
+                  <b className="navbar-links-b">NOSOTROS</b>
                 </Link>
               </li>
               <li className="nav-item active">
                 <Link className="nav-link" to="/contact">
-                  <b className="navbar-links-b">Contacto</b>
+                  <b className="navbar-links-b">CONTACTO</b>
                 </Link>
               </li>
               {/* <li className="nav-item active">
