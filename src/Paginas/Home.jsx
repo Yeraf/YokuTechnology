@@ -13,72 +13,72 @@ function Home() {
       <div className="div-home-complete">
         <div className="home-img-container">
           <article className="container article-home-intro">
-            <h3 className="home-title-h3 animate__animated animate__backInDown">Noah Technology les ofrece</h3>
+            <h3 className="home-title-h3 nimate__animated animate__backInDown">Noah Technology les ofrece</h3>
             <ul className="ul-home-list"> 
-              <li className="animate__animated animate__backInLeft">Reparación y mantenimiento de computadoras.</li>
-              <li className="animate__animated animate__backInRight">Venta de hardware para su PC o laptop.</li>
-              <li className="animate__animated animate__backInLeft">Instalación de cámaras circuito cerrado.</li>
-              <li className="animate__animated animate__backInRight">Creación de páginas Web.</li>
-              <li className="animate__animated animate__backInLeft">Sistema de facturación PDV <a className="link_noah" href="https://noah.cr/login" target={"_blank"}>noah.cr</a></li>
-              <li className="animate__animated animate__backInRight">Entre otros servicios.</li>
+              <li className="nimate__animated animate__backInLeft">Reparación y mantenimiento de computadoras.</li>
+              <li className="nimate__animated animate__backInRight">Venta de hardware para su PC o laptop.</li>
+              <li className="nimate__animated animate__backInLeft">Instalación de cámaras circuito cerrado.</li>
+              <li className="nimate__animated animate__backInRight">Creación de páginas Web.</li>
+              <li className="nimate__animated animate__backInLeft">Sistema de facturación PDV <a className="link_noah" href="https://noah.cr/login" target={"_blank"}>noah.cr</a></li>
+              <li className="nimate__animated animate__backInRight">Entre otros servicios.</li>
             </ul>
           </article>
         </div>
       </div>
       <main className="container home-main-complete">
-        <div class="card-deck">
-          <div class="card">
+        <div className="card-deck">
+          <div className="card">
             <img
               className="img-cards-home card-img-top"
               src={Reparacion}
               alt="..."
             ></img>
-            <div class="card-body">
-              <h5 class="card-title">Reparación de computadoras</h5>
-              <p class="card-text">
+            <div className="card-body">
+              <h5 className="card-title">Reparación de computadoras</h5>
+              <p className="card-text">
                 Realizamos trabajos de mantenimiento y limpieza de equipos,
                 revisión del hardware y software por daños internos entre otros.
               </p>
-              <p class="card-text">
-                <small class="text-muted">
+              <p className="card-text">
+                <small className="text-muted">
                   Imágenes con fines ilustrativos
                 </small>
               </p>
             </div>
           </div>
-          <div class="card">
+          <div className="card">
             <img
               className="img-cards-home card-img-top"
               src={Hardware}
               alt="..."
             ></img>
-            <div class="card-body">
-              <h5 class="card-title">Venta de hardware</h5>
-              <p class="card-text">
+            <div className="card-body">
+              <h5 className="card-title">Venta de hardware</h5>
+              <p className="card-text">
                 Venta de articulos para PC o laptop: monitores, teclados, mouse,
                 discos duros, CPU, audífonos entre otros.
               </p>
-              <p class="card-text">
-                <small class="text-muted">
+              <p className="card-text">
+                <small className="text-muted">className
                   Imágenes con fines ilustrativos
                 </small>
               </p>
             </div>
           </div>
-          <div class="card">
+          <div className="card">
             <img
               className="img-cards-home card-img-top"
               src={Camaras}
               alt="..."
             ></img>
-            <div class="card-body">
-              <h5 class="card-title">Cámaras</h5>
-              <p class="card-text">
+            <div className="card-body">
+              <h5 className="card-title">Cámaras</h5>
+              <p className="card-text">
                 Instalación e implementación de cámaras de video con circuito
                 cerrado.
               </p>
-              <p class="card-text">
-                <small class="text-muted">
+              <p className="card-text">
+                <small className="text-muted">
                   Imágenes con fines ilustrativos
                 </small>
               </p>
@@ -87,55 +87,55 @@ function Home() {
         </div>
       </main>
       <main className="container home-main-complete">
-        <div class="card-deck">
-          <div class="card">
+        <div className="card-deck">
+          <div className="card">
             <img
               className="img-cards-home card-img-top"
               src={PaginasWeb}
               alt="..."
             ></img>
-            <div class="card-body">
-              <h5 class="card-title">Páginas Web</h5>
-              <p class="card-text">
+            <div className="card-body">
+              <h5 className="card-title">Páginas Web</h5>
+              <p className="card-text">
                 Desarrollo de páginas Web para tu negocio, creación de páginas
                 personalizadas.
               </p>
-              <p class="card-text">
-                <small class="text-muted">
+              <p className="card-text">
+                <small className="text-muted">
                   Imágenes con fines ilustrativos
                 </small>
               </p>
             </div>
           </div>
-          <div class="card">
+          <div className="card">
             <img
               className="img-cards-home card-img-top"
               src={Red}
               alt="..."
             ></img>
-            <div class="card-body">
-              <h5 class="card-title">Estructurado de red.</h5>
-              <p class="card-text">Organización y estructurado de red.</p>
-              <p class="card-text">
-                <small class="text-muted">
+            <div className="card-body">
+              <h5 className="card-title">Estructurado de red.</h5>
+              <p className="card-text">Organización y estructurado de red.</p>
+              <p className="card-text">
+                <small className="text-muted">
                   Imágenes con fines ilustrativos
                 </small>
               </p>
             </div>
           </div>
-          <div class="card">
+          <div className="card">
             <img
               className="img-cards-home card-img-top"
               src={Formateo}
               alt="..."
             ></img>
-            <div class="card-body">
-              <h5 class="card-title">Formateo de computadoras</h5>
-              <p class="card-text">
+            <div className="card-body">
+              <h5 className="card-title">Formateo de computadoras</h5>
+              <p className="card-text">
                 Formateamos su PC por daño de software, virus o por espacio.
               </p>
-              <p class="card-text">
-                <small class="text-muted">
+              <p className="card-text">
+                <small className="text-muted">
                   Imágenes con fines ilustrativos
                 </small>
               </p>
@@ -150,9 +150,9 @@ function Home() {
             height="315"
             src="https://www.youtube.com/embed/mB-QXgtoItA"
             title="YouTube video player"
-            frameborder="0"
+            frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen
+            allowFullScreen
           ></iframe>
         </div>
         <div className="container div-home-text">

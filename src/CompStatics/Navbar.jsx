@@ -10,7 +10,7 @@ function Navbar() {
       <nav className="navbar navbar-expand-lg navbar-dark fixed-top color-navbar">
         <div className="container navbar-links-container">
           <Link to="/">
-            <img className="Navbar-logo animate__animated animate__flip" src={Logo}></img>
+            <img className="Navbar-logo" src={Logo}></img>
           </Link>
           <hr></hr>
           <button
@@ -27,27 +27,27 @@ function Navbar() {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav  mx-auto">
               <li className="nav-item active">
-                <Link className="nav-link animate__animated animate__bounce" to="/">
+                <Link className="nav-link" to="/">
                   <b className="navbar-links-b">INICIO</b>
                 </Link>
               </li>
               <li className="nav-item active">
-                <Link className="nav-link animate__animated animate__bounce" to="/products">
+                <Link className="nav-link" to="/products">
                   <b className="navbar-links-b">PRODUCTOS</b>
                 </Link>
               </li>
               <li className="nav-item active">
-                <Link className="nav-link animate__animated animate__bounce" to="/services">
+                <Link className="nav-link" to="/services">
                   <b className="navbar-links-b">SERVICIOS</b>
                 </Link>
               </li>
               <li className="nav-item active">
-                <Link className="nav-link animate__animated animate__bounce" to="/about">
+                <Link className="nav-link" to="/about">
                   <b className="navbar-links-b">NOSOTROS</b>
                 </Link>
               </li>
               <li className="nav-item active">
-                <Link className="nav-link animate__animated animate__bounce" to="/contact">
+                <Link className="nav-link" to="/contact">
                   <b className="navbar-links-b">CONTACTO</b>
                 </Link>
               </li>

@@ -29,58 +29,58 @@ function Productos() {
       </div>
       <hr></hr>
       <div>
-        <div class="card-group">
-          <div class="card">
-            <img src={DellPromo} class="card-img-top" alt="..."></img>
-            <div class="card-body">
+        <div className="card-group">
+          <div className="card">
+            <img src={DellPromo} className="card-img-top" alt="..."></img>
+            <div className="card-body">
               <h5 className="card-title productos-h1">
                 <img className="productos-emogis" src={Lentes}></img>Promo PC
                 <img className="productos-emogis" src={Lentes}></img>
               </h5>
-              <p class="card-text">Pregunte por nuestras promos de Pc (CPU)</p>
-              <p class="card-text">
-                <small class="text-muted">Productos no incluyen envío</small>
+              <p className="card-text">Pregunte por nuestras promos de Pc (CPU)</p>
+              <p className="card-text">
+                <small className="text-muted">Productos no incluyen envío</small>
               </p>
               <p>
-                <small class="text-muted">
+                <small className="text-muted">
                   Imagenes con fines ilustrativos
                 </small>
               </p>
             </div>
           </div>
-          <div class="card">
-            <img src={Kit} class="card-img-top" alt="..."></img>
-            <div class="card-body">
+          <div className="card">
+            <img src={Kit} className="card-img-top" alt="..."></img>
+            <div className="card-body">
               <h5 className="card-title productos-h1">
                 <img className="productos-emogis" src={Wow}></img>Promo Kit
                 <img className="productos-emogis" src={Wow}></img>
               </h5>
-              <p class="card-text">
+              <p className="card-text">
                 Tenemos promos de PC , teclado , mouse y monitor a buen precio.
               </p>
-              <p class="card-text">
-                <small class="text-muted">Productos no incluyen envío</small>
+              <p className="card-text">
+                <small className="text-muted">Productos no incluyen envío</small>
               </p>
               <p>
-                <small class="text-muted">
+                <small className="text-muted">
                   Imagenes con fines ilustrativos
                 </small>
               </p>
             </div>
           </div>
-          <div class="card">
-            <img src={Promo} class="card-img-top" alt="..."></img>
-            <div class="card-body">
+          <div className="card">
+            <img src={Promo} className="card-img-top" alt="..."></img>
+            <div className="card-body">
               <h5 className="card-title productos-h1">
                 <img className="productos-emogis" src={Side}></img>Promo
                 Mantenimiento<img className="productos-emogis" src={Side}></img>
               </h5>
-              <p class="card-text">
+              <p className="card-text">
                 Promoción para mantenimientos de equipos, consulte por los
                 paquetes.
               </p>
               <p>
-                <small class="text-muted">
+                <small className="text-muted">
                   Imagenes con fines ilustrativos
                 </small>
               </p>
@@ -89,154 +89,154 @@ function Productos() {
         </div>
       </div>
       <hr></hr>
-      <div class="card-deck">
-        <div class="card">
-          <img src={Audifono} class="card-img-top" alt="..."></img>
-          <div class="card-body">
-            <h5 class="card-title">Audífono Maxell</h5>
-            <p class="card-text">
+      <div className="card-deck">
+        <div className="card">
+          <img src={Audifono} className="card-img-top" alt="..."></img>
+          <div className="card-body">
+            <h5 className="card-title">Audífono Maxell</h5>
+            <p className="card-text">
               Maxell audífono sms-10 Solid 2 metalizado Mid Size Ruby Rojo.
             </p>
-            <p class="card-text">
-              <small class="text-muted">Precio de venta ...</small>
+            <p className="card-text">
+              <small className="text-muted">Precio de venta ...</small>
             </p>
           </div>
         </div>
-        <div class="card">
-          <img src={Mouse} class="card-img-top" alt="..."></img>
-          <div class="card-body">
-            <h5 class="card-title">Mouse Maxell</h5>
-            <p class="card-text">
+        <div className="card">
+          <img src={Mouse} className="card-img-top" alt="..."></img>
+          <div className="card-body">
+            <h5 className="card-title">Mouse Maxell</h5>
+            <p className="card-text">
               Maxell mouse mowr-105 optical mouse five button silver.
             </p>
-            <p class="card-text">
-              <small class="text-muted">Precio de venta ...</small>
+            <p className="card-text">
+              <small className="text-muted">Precio de venta ...</small>
             </p>
           </div>
         </div>
-        <div class="card">
-          <img src={Teclado} class="card-img-top" alt="..."></img>
-          <div class="card-body">
-            <h5 class="card-title">Teclado Targus</h5>
-            <p class="card-text">Targus teclado alambrico AKB644ESLA.</p>
-            <p class="card-text">
-              <small class="text-muted">Precio de venta ...</small>
+        <div className="card">
+          <img src={Teclado} className="card-img-top" alt="..."></img>
+          <div className="card-body">
+            <h5 className="card-title">Teclado Targus</h5>
+            <p className="card-text">Targus teclado alambrico AKB644ESLA.</p>
+            <p className="card-text">
+              <small className="text-muted">Precio de venta ...</small>
             </p>
           </div>
         </div>
       </div>
       <hr />
-      <div class="card-deck">
-        <div class="card">
-          <img src={DiscoDuro} class="card-img-top" alt="..."></img>
-          <div class="card-body">
-            <h5 class="card-title">Disco duro Kingston</h5>
-            <p class="card-text">
+      <div className="card-deck">
+        <div className="card">
+          <img src={DiscoDuro} className="card-img-top" alt="..."></img>
+          <div className="card-body">
+            <h5 className="card-title">Disco duro Kingston</h5>
+            <p className="card-text">
               Disco duro Kingston disco de estado solido SA400S37/480G.
             </p>
-            <p class="card-text">
-              <small class="text-muted">Precio de venta ...</small>
+            <p className="card-text">
+              <small className="text-muted">Precio de venta ...</small>
             </p>
           </div>
         </div>
-        <div class="card">
-          <img src={ComboMouseTeclado} class="card-img-top" alt="..."></img>
-          <div class="card-body">
-            <h5 class="card-title">Combo Teclado Mouse</h5>
-            <p class="card-text">
+        <div className="card">
+          <img src={ComboMouseTeclado} className="card-img-top" alt="..."></img>
+          <div className="card-body">
+            <h5 className="card-title">Combo Teclado Mouse</h5>
+            <p className="card-text">
               Combo Maxell teclado combo con mouse alambrico wrkbc-10 347111.
             </p>
-            <p class="card-text">
-              <small class="text-muted">Precio de venta ...</small>
+            <p className="card-text">
+              <small className="text-muted">Precio de venta ...</small>
             </p>
           </div>
         </div>
-        <div class="card">
-          <img src={SillaGaming} class="card-img-top" alt="..."></img>
-          <div class="card-body">
-            <h5 class="card-title">Silla Gaming</h5>
-            <p class="card-text">
+        <div className="card">
+          <img src={SillaGaming} className="card-img-top" alt="..."></img>
+          <div className="card-body">
+            <h5 className="card-title">Silla Gaming</h5>
+            <p className="card-text">
               Silla Gaming Trust silla gaming gxt 708r resto rojo.
             </p>
-            <p class="card-text">
-              <small class="text-muted">Precio de venta ...</small>
+            <p className="card-text">
+              <small className="text-muted">Precio de venta ...</small>
             </p>
           </div>
         </div>
       </div>
       <hr />
-      <div class="card-deck">
-        <div class="card">
-          <img src={CamaraWeb} class="card-img-top" alt="..."></img>
-          <div class="card-body">
-            <h5 class="card-title">Cámara Web</h5>
-            <p class="card-text">
+      <div className="card-deck">
+        <div className="card">
+          <img src={CamaraWeb} className="card-img-top" alt="..."></img>
+          <div className="card-body">
+            <h5 className="card-title">Cámara Web</h5>
+            <p className="card-text">
               Camara Web trust camara web video hd 720 p trino usb negro.
             </p>
-            <p class="card-text">
-              <small class="text-muted">Precio de venta ...</small>
+            <p className="card-text">
+              <small className="text-muted">Precio de venta ...</small>
             </p>
           </div>
         </div>
-        <div class="card">
-          <img src={Cable} class="card-img-top" alt="..."></img>
-          <div class="card-body">
-            <h5 class="card-title">Cable tipo C</h5>
-            <p class="card-text">
+        <div className="card">
+          <img src={Cable} className="card-img-top" alt="..."></img>
+          <div className="card-body">
+            <h5 className="card-title">Cable tipo C</h5>
+            <p className="card-text">
               Cable Maxell cable usb/tipo c de 1.8m trenzado negro.
             </p>
-            <p class="card-text">
-              <small class="text-muted">Precio de venta ...</small>
+            <p className="card-text">
+              <small className="text-muted">Precio de venta ...</small>
             </p>
           </div>
         </div>
-        <div class="card">
-          <img src={Cargador} class="card-img-top" alt="..."></img>
-          <div class="card-body">
-            <h5 class="card-title">Cargador Maxell</h5>
-            <p class="card-text">
+        <div className="card">
+          <img src={Cargador} className="card-img-top" alt="..."></img>
+          <div className="card-body">
+            <h5 className="card-title">Cargador Maxell</h5>
+            <p className="card-text">
               Cargador Maxell cargador dusb-c3 usb car charger 3 port type c
               charge 3.4a/3a.
             </p>
-            <p class="card-text">
-              <small class="text-muted">Precio de venta ...</small>
+            <p className="card-text">
+              <small className="text-muted">Precio de venta ...</small>
             </p>
           </div>
         </div>
       </div>
       <hr />
-      <div class="card-deck">
-        <div class="card">
-          <img src={Mochila} class="card-img-top" alt="..."></img>
-          <div class="card-body">
-            <h5 class="card-title">Mochila Targus</h5>
-            <p class="card-text">Mochila Targus 15.6 intellect advanced Bp.</p>
-            <p class="card-text">
-              <small class="text-muted">Precio de venta ...</small>
+      <div className="card-deck">
+        <div className="card">
+          <img src={Mochila} className="card-img-top" alt="..."></img>
+          <div className="card-body">
+            <h5 className="card-title">Mochila Targus</h5>
+            <p className="card-text">Mochila Targus 15.6 intellect advanced Bp.</p>
+            <p className="card-text">
+              <small className="text-muted">Precio de venta ...</small>
             </p>
           </div>
         </div>
-        <div class="card">
-          <img src={Parlante} class="card-img-top" alt="..."></img>
-          <div class="card-body">
-            <h5 class="card-title">Parlante Maxell</h5>
-            <p class="card-text">
+        <div className="card">
+          <img src={Parlante} className="card-img-top" alt="..."></img>
+          <div className="card-body">
+            <h5 className="card-title">Parlante Maxell</h5>
+            <p className="card-text">
             Parlante Maxell ss-120 usb micro Parlante Estereo Negro.
             </p>
-            <p class="card-text">
-              <small class="text-muted">Precio de venta ...</small>
+            <p className="card-text">
+              <small className="text-muted">Precio de venta ...</small>
             </p>
           </div>
         </div>
-        <div class="card">
-          <img src={UPS} class="card-img-top" alt="..."></img>
-          <div class="card-body">
-            <h5 class="card-title">Batería APC</h5>
-            <p class="card-text">
+        <div className="card">
+          <img src={UPS} className="card-img-top" alt="..."></img>
+          <div className="card-body">
+            <h5 className="card-title">Batería APC</h5>
+            <p className="card-text">
             Batería APC ups 425va negra 6 entradas. 120v lam be425M-lm.
             </p>
-            <p class="card-text">
-              <small class="text-muted">Precio de venta ...</small>
+            <p className="card-text">
+              <small className="text-muted">Precio de venta ...</small>
             </p>
           </div>
         </div>

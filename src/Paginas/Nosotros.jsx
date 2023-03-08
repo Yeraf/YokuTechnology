@@ -8,8 +8,8 @@ function Nosotros() {
       <hr></hr>
       <div className="jumbotron bg-warning text-black">
       
-        <h1 class="display-4 text-black"><b>Noah Technology</b></h1>
-        <hr class="my-4"></hr>
+        <h1 className="display-4 text-black"><b>Noah Technology</b></h1>
+        <hr className="my-4"></hr>
         
         <p className="lead text-black text-nosotros-somos">
         Somos una empresa de tecnología en la cual puedes encontrar servicios como reparación de computadoras, formateo, mantenimiento, instalación de cámaras, creación de paginas Web, implementación de red y cableado entre otros servicios técnicos. Venta de hardware para su computadora o laptop.
