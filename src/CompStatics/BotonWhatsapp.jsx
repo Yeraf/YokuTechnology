@@ -14,7 +14,7 @@ function BotonWhatsapp() {
           target="_blank"
         >
           <i className="icon-whatsapp">
-            <img className="icon-whatsapp-img" src={WhatsApp}></img>
+            <img className="icon-whatsapp-img animate__animated animate__rollIn" src={WhatsApp}></img>
           </i>
         </a>
       </div>
