@@ -1,17 +1,12 @@
 import React from "react";
 import "../Css/Cssapp/Home.css";
+import Carousel from "../CompStatics/Carousel";
 import Reparacion from "../Img/Cards/img-reparacion-2.png";
 import Hardware from "../Img/Cards/img-hardware-2.jpg";
 import Camaras from "../Img/Cards/img-camaras-1.jpg";
 import PaginasWeb from "../Img/Cards/img-paginas-web-2.jpg";
 import Red from "../Img/Cards/Cables-de-red1.jpg";
 import Formateo from "../Img/Cards/Formateo-de-computadoras.jpg";
-import Carrucel from "../Img/Cards/Cables-de-red.jpg";
-// import Reparar from "../Img/Home/reparar.png";
-// import Perifericos from "../Img/Home/raton.png";
-// import Video from "../Img/Home/camara.png";
-// import Paginas from "../Img/Home/pagina-de-destino.png";
-// import Facturacion from "../Img/Home/facturacion.png";
 
 function Home() {
   return (
@@ -19,14 +14,11 @@ function Home() {
       <div className="div-home-complete">
         <div className="home-img-container">
           <article className="container article-home-intro">
-            <h3 className="home-title-h3 nimate__animated animate__backInDown">
+            <h3 className="home-title-h3">
               Noah Technology
             </h3>
 
-            
-
-
-
+            <Carousel />
 
           </article>
         </div>

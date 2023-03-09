@@ -34,10 +34,22 @@
     color: #fff;
 }
 
+.h5-homme-carousel {
+    color: hsl(64, 100%, 50%);
+}
+
 .home-title-h3 {
     font-size: 40px;
     text-align: center;
     padding-bottom: 20px;
+    /* font-family: 'Faster One', cursive; */
+    /* font-family: 'Monofett', cursive; */
+    /* font-family: 'Press Start 2P', cursive; */
+    /* font-family: 'Rubik Dirt', cursive; */
+    /* font-family: 'Rubik Iso', cursive; */
+    font-family: 'Rye', cursive;
+    /* font-family: 'Tilt Prism', cursive; */
+    /* color: black; */
 }
 
 /* css main */
@@ -78,9 +90,9 @@
 }
 
 .li-portada {
-   list-style: none;
-   margin-top: 15px;
-   font-size: 20px;
+    list-style: none;
+    margin-top: 15px;
+    font-size: 20px;
 }
 
 .img-portada {
@@ -88,33 +100,43 @@
     height: 289px;
 }
 
-.img-carrousel-home{
-    width: 70%;
-    height: 70%;
-}
+.img-carousel {
+    width: 150px;
+    height: 300px;
+    border-radius: 10px;
 
+}
 
 @media screen and (max-width:480px) {
     .div-home-title {
         font-size: 20px;
         text-align: center;
     }
+
     .div-home-complete {
         height: 350px;
     }
+
     .article-home-intro {
         text-align: left;
         width: 100%;
         margin-top: 0px;
         color: #fff;
     }
+
     .home-title-h3 {
         font-size: 25px;
         text-align: center;
         padding-bottom: 10px;
     }
-    .article-home-video  {
+
+    .article-home-video {
         display: inline;
+    }
+
+    .img-carousel {
+        width: 300px;
+        height: 240px;
     }
 
     /* .div-video-home {
@@ -122,4 +144,3 @@
         margin-left: 0px;
     } */
 }
-
