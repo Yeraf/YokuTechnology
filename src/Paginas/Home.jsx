@@ -6,6 +6,12 @@ import Camaras from "../Img/Cards/img-camaras-1.jpg";
 import PaginasWeb from "../Img/Cards/img-paginas-web-2.jpg";
 import Red from "../Img/Cards/Cables-de-red1.jpg";
 import Formateo from "../Img/Cards/Formateo-de-computadoras.jpg";
+import Carrucel from "../Img/Cards/Cables-de-red.jpg";
+// import Reparar from "../Img/Home/reparar.png";
+// import Perifericos from "../Img/Home/raton.png";
+// import Video from "../Img/Home/camara.png";
+// import Paginas from "../Img/Home/pagina-de-destino.png";
+// import Facturacion from "../Img/Home/facturacion.png";
 
 function Home() {
   return (
@@ -13,15 +19,15 @@ function Home() {
       <div className="div-home-complete">
         <div className="home-img-container">
           <article className="container article-home-intro">
-            <h3 className="home-title-h3 nimate__animated animate__backInDown">Noah Technology les ofrece</h3>
-            <ul className="ul-home-list"> 
-              <li className="nimate__animated animate__backInLeft">Reparación y mantenimiento de computadoras.</li>
-              <li className="nimate__animated animate__backInRight">Venta de hardware para su PC o laptop.</li>
-              <li className="nimate__animated animate__backInLeft">Instalación de cámaras circuito cerrado.</li>
-              <li className="nimate__animated animate__backInRight">Creación de páginas Web.</li>
-              <li className="nimate__animated animate__backInLeft">Sistema de facturación PDV <a className="link_noah" href="https://noah.cr/login" target={"_blank"}>noah.cr</a></li>
-              <li className="nimate__animated animate__backInRight">Entre otros servicios.</li>
-            </ul>
+            <h3 className="home-title-h3 nimate__animated animate__backInDown">
+              Noah Technology
+            </h3>
+
+            
+
+
+
+
           </article>
         </div>
       </div>
@@ -59,8 +65,8 @@ function Home() {
                 discos duros, CPU, audífonos entre otros.
               </p>
               <p className="card-text">
-                <small className="text-muted">className
-                  Imágenes con fines ilustrativos
+                <small className="text-muted">
+                  className Imágenes con fines ilustrativos
                 </small>
               </p>
             </div>
@@ -145,7 +151,8 @@ function Home() {
       </main>
       <article className="container article-home-video">
         <div className="container">
-          <iframe className="div-video-home container"
+          <iframe
+            className="div-video-home container"
             width="560"
             height="315"
             src="https://www.youtube.com/embed/mB-QXgtoItA"
@@ -159,7 +166,11 @@ function Home() {
           <h1>Servicios Noah Technology</h1>
           <h4>Reparación y mantenimiento de equipos</h4>
           <p>
-          Las operaciones de mantenimiento preventivo son esenciales para el éxito de su negocio, ya que prolongan la vida útil de los activos y evita la necesidad de adquirir nuevos equipos. Las computadoras requieren de un mantenimiento físico (Hardware) que cubre la limpieza de componentes (tanto por fuera como por dentro).
+            Las operaciones de mantenimiento preventivo son esenciales para el
+            éxito de su negocio, ya que prolongan la vida útil de los activos y
+            evita la necesidad de adquirir nuevos equipos. Las computadoras
+            requieren de un mantenimiento físico (Hardware) que cubre la
+            limpieza de componentes (tanto por fuera como por dentro).
           </p>
         </div>
       </article>

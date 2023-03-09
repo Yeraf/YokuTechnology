@@ -71,6 +71,28 @@
     margin: auto;
 }
 
+.icons-portada {
+    width: 36px;
+    height: 36px;
+    margin-right: 12px;
+}
+
+.li-portada {
+   list-style: none;
+   margin-top: 15px;
+   font-size: 20px;
+}
+
+.img-portada {
+    width: 200px;
+    height: 289px;
+}
+
+.img-carrousel-home{
+    width: 70%;
+    height: 70%;
+}
+
 
 @media screen and (max-width:480px) {
     .div-home-title {
