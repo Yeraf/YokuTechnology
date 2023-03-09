@@ -29,8 +29,8 @@ const Carousel = () => {
               alt="First slide"
             ></img>
             <div class="carousel-caption d-none d-md-block">
-              <h5 className="h5-homme-carousel">Reparación y mantenimiento de computadoras.</h5>
-              <p className="h5-homme-carousel">8726-1983</p>
+              {/* <h5 className="h5-homme-carousel">Reparación y mantenimiento de computadoras.</h5>
+              <p className="h5-homme-carousel">8726-1983</p> */}
             </div>
           </div>
           <div className="carousel-item">
@@ -41,7 +41,7 @@ const Carousel = () => {
             ></img>
             <div class="carousel-caption d-none d-md-block">
               {/* <h5 className="h5-homme-carousel">Venta de hardware para su PC o laptop.</h5> */}
-              <p className="h5-homme-carousel">Instagram techno.noah</p>
+              {/* <p className="h5-homme-carousel">Instagram techno.noah</p> */}
             </div>
           </div>
           <div className="carousel-item">
@@ -62,8 +62,8 @@ const Carousel = () => {
               alt="Third slide"
             ></img>
             <div class="carousel-caption d-none d-md-block">
-              <h5 className="h5-homme-carousel">Creación de páginas Web.</h5>
-              <p className="h5-homme-carousel">8726-1983</p>
+              {/* <h5 className="h5-homme-carousel">Creación de páginas Web.</h5>
+              <p className="h5-homme-carousel">8726-1983</p> */}
             </div>
           </div>
           <div className="carousel-item">
@@ -74,7 +74,7 @@ const Carousel = () => {
             ></img>
             <div class="carousel-caption d-none d-md-block">
               {/* <h5 className="h5-homme-carousel">Sistema de facturación PDV </h5> */}
-              <a className="link_noah" href="https://noah.cr/login" target={"_blank"}>noah.cr</a>
+              {/* <a className="link_noah" href="https://noah.cr/login" target={"_blank"}>noah.cr</a> */}
             </div>
           </div>
         </div>
