@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
+import { HashRouter, Routes, Route, Navigate } from "react-router-dom";
 import Navbar from "./CompStatics/Navbar";
 import Home from "./Paginas/Home";
 import Products from "./Paginas/Productos";
@@ -13,7 +13,7 @@ function RoutesReact() {
   return (
     <div className="page-container">
       <div className="content-wrap">
-      <BrowserRouter>
+      <HashRouter>
         <Navbar />
         <Routes>
           <Route exact index path="/" element={<Home />}></Route>
@@ -25,7 +25,7 @@ function RoutesReact() {
           <Route exact path="/**" element={ <Navigate to='/home'/>}></Route>
         </Routes>
         <BotonWhatsapp />
-      </BrowserRouter>
+      </HashRouter>
       </div>
       <Footer />
     </div>

@@ -6,7 +6,7 @@ function Nosotros() {
   return (
     <div className="container nosotros-jumbotron">
       <hr></hr>
-      <div className="jumbotron bg-warning text-black">
+      <div className="jumbotron bg-secondary text-black">
       
         <h1 className="display-4 text-black"><b>Noah Technology</b></h1>
         <hr className="my-4"></hr>
