@@ -43,7 +43,7 @@ function Productos() {
               </p>
               <p>
                 <small className="text-muted">
-                  Imagenes con fines ilustrativos
+                Imágenes con fines ilustrativos
                 </small>
               </p>
             </div>
@@ -63,7 +63,7 @@ function Productos() {
               </p>
               <p>
                 <small className="text-muted">
-                  Imagenes con fines ilustrativos
+                Imágenes con fines ilustrativos
                 </small>
               </p>
             </div>
@@ -81,7 +81,7 @@ function Productos() {
               </p>
               <p>
                 <small className="text-muted">
-                  Imagenes con fines ilustrativos
+                Imágenes con fines ilustrativos
                 </small>
               </p>
             </div>

@@ -3,6 +3,7 @@ import "../Css/Cssapp/Navbar.css";
 import Logo from "../Img/Logos/logo-website.png";
 // import Logo from "../Img/Logos/logonoah.png";
 import { Link } from "react-router-dom";
+import DropDown from "../CompStatics/DropDown";
 
 function Navbar() {
   return (
@@ -97,6 +98,7 @@ function Navbar() {
           </div>
         </div>
       </nav>
+      <DropDown/>
     </div>
   );
 }

@@ -11,7 +11,7 @@ import Formateo from "../Img/Cards/Formateo-de-computadoras.jpg";
 function Home() {
   return (
     <>
-      <div className="div-home-complete">
+      <div className="div-home-complete container">
         <div className="home-img-container">
           <article className="container article-home-intro">
             <h3 className="home-title-h3">
@@ -53,12 +53,12 @@ function Home() {
             <div className="card-body">
               <h5 className="card-title">Venta de hardware</h5>
               <p className="card-text">
-                Venta de articulos para PC o laptop: monitores, teclados, mouse,
+                Venta de artículos para PC o laptop: monitores, teclados, mouse,
                 discos duros, CPU, audífonos entre otros.
               </p>
               <p className="card-text">
                 <small className="text-muted">
-                  className Imágenes con fines ilustrativos
+                  Imágenes con fines ilustrativos
                 </small>
               </p>
             </div>

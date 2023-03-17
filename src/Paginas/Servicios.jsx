@@ -36,7 +36,7 @@ export class Servicios extends Component {
             <div class="card-body">
               <h5 class="card-title">¿Se te dañó la compu?</h5>
               <p class="card-text">
-                Noah Technology te ayuda a resolver, nuestros profecionales
+                Noah Technology te ayuda a resolver, nuestros profesionales
                 trabajaran para solucionar el problema.
               </p>
             </div>
