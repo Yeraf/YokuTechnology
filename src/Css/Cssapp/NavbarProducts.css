@@ -1,3 +1,19 @@
+.navbar-products {
+    border-radius: 10px;
+}
+
 .a-navbar-products {
-    margin-left: 10px;
+    margin-left: 9px;
+}
+
+.a-navbar-products {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.button-navbar-products {
+    margin-right: 9px;
+}
+
+.dropdown-toggle {
+    margin-left: 9px;
 }

@@ -3,13 +3,13 @@ import '../Css/Cssapp/NavbarProducts.css';
 
 const DropDown = () => {
   return (
-    <div className="container">
+    <div className="container navbar-container">
       <nav className="navbar navbar-expand-lg navbar-light bg-light navbar-products">
         <a className="navbar-brand a-navbar-products" href="#">
-          Productos
+          | Productos |
         </a>
         <button
-          className="navbar-toggler"
+          className="navbar-toggler button-navbar-products"
           type="button"
           data-toggle="collapse"
           data-target="#navbarNavDropdown"
@@ -19,7 +19,9 @@ const DropDown = () => {
         >
           <span className="navbar-toggler-icon"></span>
         </button>
+        
         <div className="collapse navbar-collapse" id="navbarNavDropdown">
+        <hr />
           <ul className="navbar-nav">
           <li className="nav-item dropdown">
               <a
