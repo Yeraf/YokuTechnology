@@ -1,6 +1,5 @@
 import React from "react";
 import "../Css/Cssapp/Productos.css";
-import Monitor from "../Img/Products/product-monitor.jpg";
 import Mouse from "../Img/Products/mouse-silver.png";
 import Teclado from "../Img/Products/teclado-targus.jpg";
 import Lentes from "../Img/Emogis/cool.png";

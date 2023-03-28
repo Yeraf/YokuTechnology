@@ -1,0 +1,23 @@
+/* .card-Laptop-products {
+    margin-top: 9px;
+    display: inline-flexbox;
+} */
+
+.div-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 9px;
+}
+
+.Laptops-card {
+    margin-left: 3px;
+    margin-bottom: 6px;
+}
+
+/* @media screen and (max-width:700px) {
+
+    .laptops-cards-container {
+        display: none;
+    }
+} */

@@ -1,13 +1,9 @@
-import './App.css';
-import '../src/Css/bootswatatch/bootstrap.css';
-import RoutesReact from './RoutesReact';
+import "./App.css";
+import "../src/Css/bootswatatch/bootstrap.css";
+import RoutesReact from "./RoutesReact";
 
 function App() {
-  return (
-    
-      <RoutesReact/>
-    
-  );
+  return <RoutesReact />;
 }
 
 export default App;
