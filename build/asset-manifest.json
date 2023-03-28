@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/YokuTechnology/static/css/main.4d21d9bf.css",
-    "main.js": "/YokuTechnology/static/js/main.955aa31f.js",
+    "main.css": "/YokuTechnology/static/css/main.18e5c42f.css",
+    "main.js": "/YokuTechnology/static/js/main.8c1a0965.js",
     "static/js/787.21c3381c.chunk.js": "/YokuTechnology/static/js/787.21c3381c.chunk.js",
     "static/media/logonoah.png": "/YokuTechnology/static/media/logonoah.e9cdcc9fa45ba0b553e5.png",
     "static/media/background-tecnologia2.png": "/YokuTechnology/static/media/background-tecnologia2.4dfd47d8f7a65883d2d2.png",
@@ -22,6 +22,7 @@
     "static/media/cable-tipo-c.png": "/YokuTechnology/static/media/cable-tipo-c.6ade35132781307e0c8e.png",
     "static/media/audifono-maxell.jpg": "/YokuTechnology/static/media/audifono-maxell.6f621c98f888bc878ea4.jpg",
     "static/media/fondo-contact.jpg": "/YokuTechnology/static/media/fondo-contact.1b39ad5e1c2e6570cd58.jpg",
+    "static/media/Laptop.jpg": "/YokuTechnology/static/media/Laptop.05478f9e32a171381380.jpg",
     "static/media/img-camaras-1.jpg": "/YokuTechnology/static/media/img-camaras-1.742c9ea5c081ad43b30f.jpg",
     "static/media/tienda-3.jpg": "/YokuTechnology/static/media/tienda-3.fe5c6468320d8b7c5404.jpg",
     "static/media/logo-website.png": "/YokuTechnology/static/media/logo-website.71053c5e39daffbc05ee.png",
@@ -30,7 +31,6 @@
     "static/media/img-hardware-2.jpg": "/YokuTechnology/static/media/img-hardware-2.a0d3134458c144355941.jpg",
     "static/media/tienda-2.jpg": "/YokuTechnology/static/media/tienda-2.20b877f1cd47cd9863e1.jpg",
     "static/media/teclado-targus.jpg": "/YokuTechnology/static/media/teclado-targus.eb78abbe9f70ea3f91df.jpg",
-    "static/media/product-monitor.jpg": "/YokuTechnology/static/media/product-monitor.0d21fc727e36d04745ea.jpg",
     "static/media/cool.png": "/YokuTechnology/static/media/cool.8656616344b7f31047a5.png",
     "static/media/wow.png": "/YokuTechnology/static/media/wow.7927a11b7d6a2af51466.png",
     "static/media/disco-estado-solido.jpg": "/YokuTechnology/static/media/disco-estado-solido.46ea5375aa0fb59499c6.jpg",
@@ -48,12 +48,12 @@
     "static/media/parlante.jpg": "/YokuTechnology/static/media/parlante.5a3f4525abb8f5b0da9d.jpg",
     "static/media/gmail.png": "/YokuTechnology/static/media/gmail.a2f2146f929409405da0.png",
     "index.html": "/YokuTechnology/index.html",
-    "main.4d21d9bf.css.map": "/YokuTechnology/static/css/main.4d21d9bf.css.map",
-    "main.955aa31f.js.map": "/YokuTechnology/static/js/main.955aa31f.js.map",
+    "main.18e5c42f.css.map": "/YokuTechnology/static/css/main.18e5c42f.css.map",
+    "main.8c1a0965.js.map": "/YokuTechnology/static/js/main.8c1a0965.js.map",
     "787.21c3381c.chunk.js.map": "/YokuTechnology/static/js/787.21c3381c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d21d9bf.css",
-    "static/js/main.955aa31f.js"
+    "static/css/main.18e5c42f.css",
+    "static/js/main.8c1a0965.js"
   ]
 }
