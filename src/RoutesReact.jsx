@@ -8,6 +8,7 @@ import Contact from "./Paginas/Contacto";
 import BotonWhatsapp from "./CompStatics/BotonWhatsapp";
 import Footer from "./CompStatics/Footer";
 import Laptops from "./CompProducts/Laptops";
+import Mouse from "./CompProducts/mouse";
 import DropDown from "./CompStatics/DropDown";
  
 
@@ -26,6 +27,7 @@ function RoutesReact() {
           <Route exact path="/about" element={<About />}></Route>
           <Route exact path="/contact" element={<Contact />}></Route>
           <Route exact path="/laptops" element={<Laptops />}></Route>
+          <Route exact path="/mouse" element={<Mouse />}></Route>
           
           <Route exact path="/*/*" element={ <Navigate to='/home'/>}></Route>
         </Routes>

@@ -11,13 +11,14 @@
 }
 
 .Laptops-card {
-    margin-left: 3px;
+    margin-left: 0px;
     margin-bottom: 6px;
 }
 
-/* @media screen and (max-width:700px) {
 
-    .laptops-cards-container {
-        display: none;
+@media screen and (max-width:600px) {
+
+    .Laptops-card {
+        width: 95%;
     }
-} */
+}

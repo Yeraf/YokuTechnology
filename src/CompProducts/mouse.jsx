@@ -1,14 +1,12 @@
-import "../Css/Cssapp/Products/Laptops.css";
-import data from "../Json/Laptop.json";
-// import Laptop1 from "../Img/ImgJson/ImgLaptops/Laptop.jpg";
+import Data from "../Json/mouse.json";
 
-const Laptops = () => {
+const mouse = () => {
   return (
     <div className="">
       <div className="row">
         <div className="div-cards">
           <hr />
-          {data.map((data) => {
+          { Data && Data.map (data => {
             return (
               <div className="card Laptops-card d-flex" key={data.id}>
                 <img
@@ -30,7 +28,7 @@ const Laptops = () => {
         </div>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default Laptops;
+export default mouse

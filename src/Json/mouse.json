@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "img": "Img/imglaptops/laptop.jpg", 
+        "nameProduct": "Mi producto 1",
+        "text1": "Mi Text 1",
+        "text2": "There Mi Text 2"
+    },
+    {
+        "id": 2,
+        "img":  "Img/imglaptops/laptop/jpg",
+        "nameProduct": "Mi producto 2",
+        "text1": "Mi Text 2",
+        "text2": "That Mi Text 2"
+    },
+    {
+        "id": 3,
+        "img":  "Img/imglaptops/laptop/jpg",
+        "nameProduct": "Mi producto 3",
+        "text1": "Mi Text otro",
+        "text2": "This Mi Text 3"
+    }
+    
+]
+
+

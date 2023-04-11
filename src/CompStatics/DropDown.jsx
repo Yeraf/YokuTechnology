@@ -45,7 +45,7 @@ const DropDown = () => {
                   </Link>
                 </a>
                 
-                <Link to="/contact">
+                <Link to="/mouse">
                 <a className="dropdown-item a-link-products" href="#">
                   PC Escritorio | Gaming
                 </a>
@@ -119,7 +119,7 @@ const DropDown = () => {
                   Teclados
                 </a>
                 </Link>
-                <Link to='/'>
+                <Link to='/mouse'>
                 <a className="dropdown-item" href="#">
                   Mouse
                 </a>
