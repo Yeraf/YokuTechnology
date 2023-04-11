@@ -1,6 +1,6 @@
-import Data from "../Json/mouse.json";
+import Data from "../Json/cpu.json";
 
-const mouse = () => {
+const cpu = () => {
   return (
     <div className="">
       <div className="row">
@@ -17,7 +17,7 @@ const mouse = () => {
                 <div className="card-body">
                   <h5 className="card-title">{data.nameProduct}</h5>
                   <p className="card-text">{data.text1}</p>
-                  <p className="text-muted">{data.text2}</p>
+                  <p className="card-text">{data.text2}</p>
                   <a href="#" className="btn btn-primary">
                     Go somewhere
                   </a>
@@ -31,4 +31,4 @@ const mouse = () => {
   )
 }
 
-export default mouse
+export default cpu;

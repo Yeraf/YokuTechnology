@@ -1,6 +1,6 @@
-import Data from "../Json/mouse.json";
+import Data from "../Json/audifonos.json";
 
-const mouse = () => {
+const audifonos = () => {
   return (
     <div className="">
       <div className="row">
@@ -31,4 +31,4 @@ const mouse = () => {
   )
 }
 
-export default mouse
+export default audifonos

@@ -10,10 +10,10 @@ const Laptops = () => {
           <hr />
           {data.map((data) => {
             return (
-              <div className="card Laptops-card d-flex" key={data.id}>
+              <div className="card Laptops-card d-flex " key={data.id}>
                 <img
                   src={data.img}
-                  className="card-img-top"
+                  className="card-img-top h-10"
                   alt={data.nameProduct}
                 ></img>
                 <div className="card-body">

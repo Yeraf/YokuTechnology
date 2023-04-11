@@ -45,7 +45,7 @@ const DropDown = () => {
                   </Link>
                 </a>
                 
-                <Link to="/mouse">
+                <Link to="/cpu">
                 <a className="dropdown-item a-link-products" href="#">
                   PC Escritorio | Gaming
                 </a>
@@ -72,7 +72,7 @@ const DropDown = () => {
                 className="dropdown-menu"
                 aria-labelledby="navbarDropdownMenuLink"
               >
-                <Link to='/'>
+                <Link to='/discos'>
                 <a className="dropdown-item" href="#">
                   Discos Duros
                 </a>
@@ -114,7 +114,7 @@ const DropDown = () => {
                 className="dropdown-menu"
                 aria-labelledby="navbarDropdownMenuLink"
               >
-                <Link to='/'>
+                <Link to='/teclados'>
                 <a className="dropdown-item" href="#">
                   Teclados
                 </a>
@@ -124,7 +124,7 @@ const DropDown = () => {
                   Mouse
                 </a>
                 </Link>
-                <Link to='/'>
+                <Link to='/audifonos'>
                 <a className="dropdown-item" href="#">
                   Audífonos | Micrófonos
                 </a>
@@ -240,14 +240,9 @@ const DropDown = () => {
                 className="dropdown-menu"
                 aria-labelledby="navbarDropdownMenuLink"
               >
-                <Link to='/'>
+                <Link to='/herramientas'>
                 <a className="dropdown-item" href="#">
-                  Herramientas Red
-                </a>
-                </Link>
-                <Link to='/'>
-                <a className="dropdown-item" href="#">
-                  Herramientas Instalación 
+                  Instalación | Red
                 </a>
                 </Link>
               </div>

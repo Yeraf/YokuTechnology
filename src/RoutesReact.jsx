@@ -6,11 +6,14 @@ import Servicices from "./Paginas/Servicios";
 import About from "./Paginas/Nosotros";
 import Contact from "./Paginas/Contacto";
 import BotonWhatsapp from "./CompStatics/BotonWhatsapp";
+import DropDown from "./CompStatics/DropDown";
 import Footer from "./CompStatics/Footer";
 import Laptops from "./CompProducts/Laptops";
 import Mouse from "./CompProducts/mouse";
-import DropDown from "./CompStatics/DropDown";
- 
+import CPU from "./CompProducts/cpu";
+import DISCOS from "./CompProducts/discoduro";
+import TECLADOS from "./CompProducts/teclados";
+import AUDIFONOS from "./CompProducts/audifonos";
 
 function RoutesReact() {
   return (
@@ -28,6 +31,10 @@ function RoutesReact() {
           <Route exact path="/contact" element={<Contact />}></Route>
           <Route exact path="/laptops" element={<Laptops />}></Route>
           <Route exact path="/mouse" element={<Mouse />}></Route>
+          <Route exact path="/cpu" element={<CPU />}></Route>
+          <Route exact path="/discos" element={<DISCOS />}></Route>
+          <Route exact path="/teclados" element={<TECLADOS />}></Route>
+          <Route exact path="/audifonos" element={<AUDIFONOS />}></Route>
           
           <Route exact path="/*/*" element={ <Navigate to='/home'/>}></Route>
         </Routes>
