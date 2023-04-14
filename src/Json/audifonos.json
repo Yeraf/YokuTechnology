@@ -2,22 +2,22 @@
     {
         "id": 1,
         "img": "https://res.cloudinary.com/demqoasvn/image/upload/v1681234613/Techno%20Noah/Audifonos/Audifono_3_xnxg7y.png", 
-        "nameProduct": "Mi producto 1",
-        "text1": "Mi Text 1",
+        "nameProduct": "AUDIFONO SPIRAL",
+        "text1": "₡9.500",
         "text2":  "Precio no incluye el envío"
     },
     {
         "id": 2,
         "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1681234619/Techno%20Noah/Audifonos/Audifono_1_eceigb.png",
-        "nameProduct": "Mi producto 2",
-        "text1": "Mi Text 2",
+        "nameProduct": "AUDIFONO MAXELL",
+        "text1": "₡12.500",
         "text2":  "Precio no incluye el envío"
     },
     {
         "id": 3,
         "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1681234617/Techno%20Noah/Audifonos/Audifono_2_u7uisg.png",
-        "nameProduct": "Mi producto 3",
-        "text1": "Mi Text otro",
+        "nameProduct": "AUDIFONO VORACIS",
+        "text1": "₡9.500",
         "text2":  "Precio no incluye el envío"
     }
 ]

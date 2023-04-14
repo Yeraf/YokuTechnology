@@ -17,7 +17,7 @@ const cpu = () => {
                 <div className="card-body">
                   <h5 className="card-title">{data.nameProduct}</h5>
                   <p className="card-text">{data.text1}</p>
-                  <p className="card-text">{data.text2}</p>
+                  <p className="text-muted">{data.text2}</p>
                   <a href="#" className="btn btn-primary">
                     Go somewhere
                   </a>

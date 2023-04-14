@@ -3,21 +3,21 @@
         "id": 1,
         "img": "https://res.cloudinary.com/demqoasvn/image/upload/v1681234621/Techno%20Noah/Combo%20Teclados/Combo_Teclado_Mouse_2_lvuiu7.jpg", 
         "nameProduct": "Combo Gaming",
-        "text1": "Mi Text 1",
+        "text1": "₡18.600",
         "text2": "Precio no incluye el envío"
     },
     {
         "id": 2,
         "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1681234621/Techno%20Noah/Combo%20Teclados/Combo_Teclado_Mouse_wqovhh.jpg",
         "nameProduct": "Combo Duo Gaming",
-        "text1": "Mi Text 2",
+        "text1": "₡22.000",
         "text2": "Precio no incluye el envío"
     },
     {
         "id": 3,
         "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1681234621/Techno%20Noah/Combo%20Teclados/Combo_Teclado_Mou_Aud_Pad_rg5tq8.jpg",
         "nameProduct": "Combo Gaming 4 en 1",
-        "text1": "Mi Text otro",
+        "text1": "₡22.000",
         "text2": "Precio no incluye el envío"
     }
 ]

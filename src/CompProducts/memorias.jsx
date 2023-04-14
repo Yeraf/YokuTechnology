@@ -1,7 +1,6 @@
-import "../Css/Cssapp/Products/Laptops.css";
-import Data from "../Json/Laptop.json";
+import Data from '../Json/memorias.json';
 
-const Laptops = () => {
+const memorias = () => {
   return (
     <div className="">
       <div className="row">
@@ -29,7 +28,7 @@ const Laptops = () => {
         </div>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default Laptops;
+export default memorias

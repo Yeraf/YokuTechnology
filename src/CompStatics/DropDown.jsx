@@ -1,5 +1,5 @@
-import '../Css/Cssapp/NavbarProducts.css';
-import '../Css/Cssapp/DropDown.css';
+import "../Css/Cssapp/NavbarProducts.css";
+import "../Css/Cssapp/DropDown.css";
 import { Link } from "react-router-dom";
 
 const DropDown = () => {
@@ -20,11 +20,11 @@ const DropDown = () => {
         >
           <span className="navbar-toggler-icon"></span>
         </button>
-        
+
         <div className="collapse navbar-collapse" id="navbarNavDropdown">
-        <hr />
+          <hr />
           <ul className="navbar-nav">
-          <li className="nav-item dropdown">
+            <li className="nav-item dropdown">
               <a
                 className="nav-link dropdown-toggle"
                 href="#"
@@ -38,22 +38,21 @@ const DropDown = () => {
               <div
                 className="dropdown-menu"
                 aria-labelledby="navbarDropdownMenuLink"
-              >                
-                <a className="dropdown-item a-link-products" href="#">
-                <Link className="" to="/laptops">
-                  Laptops | Portátiles
-                  </Link>
-                </a>
-                
-                <Link to="/cpu">
-                <a className="dropdown-item a-link-products" href="#">
-                  PC Escritorio | Gaming
-                </a>
+              >
+                <Link to="/laptops">
+                  <a className="dropdown-item a-link-products" href="#">
+                    Laptops | Portátiles
+                  </a>
                 </Link>
-                <Link to="/">
-                <a className="dropdown-item a-link-products" href="#">
-                 Tablets
-                </a>
+                <Link to="/cpu">
+                  <a className="dropdown-item a-link-products" href="#">
+                    PC Escritorio | Gaming
+                  </a>
+                </Link>
+                <Link to="/tablets">
+                  <a className="dropdown-item a-link-products" href="#">
+                    Tablets
+                  </a>
                 </Link>
               </div>
             </li>
@@ -72,30 +71,20 @@ const DropDown = () => {
                 className="dropdown-menu"
                 aria-labelledby="navbarDropdownMenuLink"
               >
-                <Link to='/discos'>
-                <a className="dropdown-item" href="#">
-                  Discos Duros
-                </a>
+                <Link to="/discos">
+                  <a className="dropdown-item" href="#">
+                    Discos Duros
+                  </a>
                 </Link>
-                <Link to='/'>
-                <a className="dropdown-item" href="#">
-                  Memorias Ram
-                </a>
+                <Link to="/memorias">
+                  <a className="dropdown-item" href="#">
+                    Memorias | Ram | Tarjetas
+                  </a>
                 </Link>
-                <Link to='/'>
-                <a className="dropdown-item" href="#">
-                  Cases
-                </a>
-                </Link>
-                <Link to='/'>
-                <a className="dropdown-item" href="#">
-                  Ventiladores
-                </a>
-                </Link>
-                <Link to='/'>
-                <a className="dropdown-item" href="#">
-                  Tarjetas Madre
-                </a>
+                <Link to="/ventiladores">
+                  <a className="dropdown-item" href="#">
+                    Ventiladores
+                  </a>
                 </Link>
               </div>
             </li>
@@ -114,25 +103,25 @@ const DropDown = () => {
                 className="dropdown-menu"
                 aria-labelledby="navbarDropdownMenuLink"
               >
-                <Link to='/teclados'>
-                <a className="dropdown-item" href="#">
-                  Teclados
-                </a>
+                <Link to="/teclados">
+                  <a className="dropdown-item" href="#">
+                    Teclados
+                  </a>
                 </Link>
-                <Link to='/mouse'>
-                <a className="dropdown-item" href="#">
-                  Mouse
-                </a>
+                <Link to="/mouse">
+                  <a className="dropdown-item" href="#">
+                    Mouse
+                  </a>
                 </Link>
-                <Link to='/audifonos'>
-                <a className="dropdown-item" href="#">
-                  Audífonos | Micrófonos
-                </a>
+                <Link to="/audifonos">
+                  <a className="dropdown-item" href="#">
+                    Audífonos | Micrófonos
+                  </a>
                 </Link>
-                <Link to='/'>
-                <a className="dropdown-item" href="#">
-                  Cables
-                </a>
+                <Link to="/cables">
+                  <a className="dropdown-item" href="#">
+                    Cables
+                  </a>
                 </Link>
               </div>
             </li>
@@ -151,35 +140,20 @@ const DropDown = () => {
                 className="dropdown-menu"
                 aria-labelledby="navbarDropdownMenuLink"
               >
-                <Link to='/'>
-                <a className="dropdown-item" href="#">
-                  Todo En Uno
-                </a>
+                <Link to="/monitores">
+                  <a className="dropdown-item" href="#">
+                    Todo En Uno | Monitores
+                  </a>
                 </Link>
-                <Link to='/'>
-                <a className="dropdown-item" href="#">
-                  Monitores
-                </a>
+                <Link to="/baterias">
+                  <a className="dropdown-item" href="#">
+                    UPS | Baterías
+                  </a>
                 </Link>
-                <Link to='/'>
-                <a className="dropdown-item" href="#">
-                  UPS | Baterías
-                </a>
-                </Link>
-                <Link to='/'>
-                <a className="dropdown-item" href="#">
-                  Cajón para Dinero
-                </a>
-                </Link>
-                <Link to='/'>
-                <a className="dropdown-item" href="#">
-                  Impresoras
-                </a>
-                </Link>
-                <Link to='/'>
-                <a className="dropdown-item" href="#">
-                  Scanners
-                </a>
+                <Link to="/impresoras">
+                  <a className="dropdown-item" href="#">
+                    Impresoras | Cajones | Scanners
+                  </a>
                 </Link>
               </div>
             </li>
@@ -198,30 +172,20 @@ const DropDown = () => {
                 className="dropdown-menu"
                 aria-labelledby="navbarDropdownMenuLink"
               >
-                <Link to='/'>
-                <a className="dropdown-item" href="#">
-                  Maletines
-                </a>
+                <Link to="/fundas">
+                  <a className="dropdown-item" href="#">
+                    Fundas | Estuches | Maletines
+                  </a>
                 </Link>
-                <Link to='/'>
-                <a className="dropdown-item" href="#">
-                  Fundas
-                </a>
+                <Link to="/">
+                  <a className="dropdown-item" href="#">
+                    Sillas Gaming | Sillas
+                  </a>
                 </Link>
-                <Link to='/'>
-                <a className="dropdown-item" href="#">
-                  Estuches
-                </a>
-                </Link>
-                <Link to='/'>
-                <a className="dropdown-item" href="#">
-                  Sillas Gaming
-                </a>
-                </Link>
-                <Link to='/'>
-                <a className="dropdown-item" href="#">
-                  Escritorios
-                </a>
+                <Link to="/escritorios">
+                  <a className="dropdown-item" href="#">
+                    Escritorios
+                  </a>
                 </Link>
               </div>
             </li>
@@ -240,10 +204,10 @@ const DropDown = () => {
                 className="dropdown-menu"
                 aria-labelledby="navbarDropdownMenuLink"
               >
-                <Link to='/herramientas'>
-                <a className="dropdown-item" href="#">
-                  Instalación | Red
-                </a>
+                <Link to="/herramientas">
+                  <a className="dropdown-item" href="#">
+                    Instalación | Red
+                  </a>
                 </Link>
               </div>
             </li>

@@ -1,18 +1,17 @@
-import "../Css/Cssapp/Products/Laptops.css";
-import Data from "../Json/Laptop.json";
+import Data from "../Json/ventiladores.json";
 
-const Laptops = () => {
+const ventiladores = () => {
   return (
     <div className="">
       <div className="row">
-        <div className="div-cards">
+        <div className="div-cards ">
           <hr />
-          {Data.map((data) => {
+          { Data && Data.map (data => {
             return (
-              <div className="card Laptops-card d-flex " key={data.id}>
+              <div className="card Laptops-card d-flex" key={data.id}>
                 <img
                   src={data.img}
-                  className="card-img-top h-10"
+                  className="card-img-top"
                   alt={data.nameProduct}
                 ></img>
                 <div className="card-body">
@@ -29,7 +28,10 @@ const Laptops = () => {
         </div>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default Laptops;
+export default ventiladores
+
+
+

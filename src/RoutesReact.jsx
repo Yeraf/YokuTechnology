@@ -14,6 +14,13 @@ import CPU from "./CompProducts/cpu";
 import DISCOS from "./CompProducts/discoduro";
 import TECLADOS from "./CompProducts/teclados";
 import AUDIFONOS from "./CompProducts/audifonos";
+import TABLETS from "./CompProducts/tablets";
+import MEMORIAS from "./CompProducts/memorias";
+import CABLES from "./CompProducts/cables";
+import VENTILADORES from "./CompProducts/ventiladores";
+import MONITORES from "./CompProducts/monitores";
+import BATERIAS from "./CompProducts/baterias";
+import IMPRESORAS from "./CompProducts/impresoras";
 
 function RoutesReact() {
   return (
@@ -35,7 +42,14 @@ function RoutesReact() {
           <Route exact path="/discos" element={<DISCOS />}></Route>
           <Route exact path="/teclados" element={<TECLADOS />}></Route>
           <Route exact path="/audifonos" element={<AUDIFONOS />}></Route>
-          
+          <Route exact path="/tablets" element={<TABLETS />}></Route>
+          <Route exact path="/memorias" element={<MEMORIAS />}></Route>
+          <Route exact path="/cables" element={<CABLES />}></Route>
+          <Route exact path="/ventiladores" element={<VENTILADORES />}></Route>
+          <Route exact path="/monitores" element={<MONITORES />}></Route>
+          <Route exact path="/baterias" element={<BATERIAS />}></Route>
+          <Route exact path="/impresoras" element={<IMPRESORAS />}></Route>
+
           <Route exact path="/*/*" element={ <Navigate to='/home'/>}></Route>
         </Routes>
         <BotonWhatsapp />

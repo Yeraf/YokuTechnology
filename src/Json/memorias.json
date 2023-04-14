@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "img": "https://res.cloudinary.com/demqoasvn/image/upload/v1681428678/Techno%20Noah/Memorias/Memoria_1_msw66m.png",
+        "nameProduct": "MEMORIA USB 16GB",
+        "text1": "₡2.400",
+        "text2": "Precio no incluye el envío"
+    },
+    {
+        "id": 2,
+        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1681428675/Techno%20Noah/Memorias/Memoria_3_v18c2v.png",
+        "nameProduct": "MEMORIA USB 32GB",
+        "text1": "₡2.900",
+        "text2": "Precio no incluye el envío"
+    },
+    {
+        "id": 3,
+        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1681428678/Techno%20Noah/Memorias/Memoria_2_owimis.png",
+        "nameProduct": "MEMORIA USB 128GB",
+        "text1": "₡6.500",
+        "text2": "Precio no incluye el envío"
+    }
+]
+

@@ -3,21 +3,21 @@
         "id": 1,
         "img": "https://res.cloudinary.com/demqoasvn/image/upload/v1681240822/Techno%20Noah/Disco%20Duro/Disco_SSD_240gb_gkinrc.png", 
         "nameProduct": "Disco SSD 240GB",
-        "text1": "Mi Text 1",
+        "text1": "₡19.500",
         "text2": "Precio no incluye el envío"
     },
     {
         "id": 2,
         "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1681240823/Techno%20Noah/Disco%20Duro/Disco_SSD_480GB_fhne4l.png",
         "nameProduct": "Disco SSD 480GB",
-        "text1": "Mi Text 2",
+        "text1": "₡26.000",
         "text2": "Precio no incluye el envío"
     },
     {
         "id": 3,
         "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1681240822/Techno%20Noah/Disco%20Duro/Disco_SSD_960gb_wrf9pr.png",
         "nameProduct": "Disco SSD 960GB",
-        "text1": "Mi Text otro",
+        "text1": "₡44.500",
         "text2": "Precio no incluye el envío"
     }
 ]
