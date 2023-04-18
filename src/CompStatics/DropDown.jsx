@@ -177,7 +177,7 @@ const DropDown = () => {
                     Fundas | Estuches | Maletines
                   </a>
                 </Link>
-                <Link to="/">
+                <Link to="/sillas">
                   <a className="dropdown-item" href="#">
                     Sillas Gaming | Sillas
                   </a>

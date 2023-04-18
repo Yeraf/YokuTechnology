@@ -1,8 +1,10 @@
 import React from "react";
 
-import Tienda1 from "../Img/Home/tienda-1.jpg";
-import Tienda2 from "../Img/Home/tienda-2.jpg";
-import Tienda3 from "../Img/Home/tienda-3.jpg";
+import Tienda1 from "../Img/Home/homecarrusel/Home 6.jpeg";
+import Tienda2 from "../Img/Home/homecarrusel/Home 7.jpeg";
+import Tienda3 from "../Img/Home/homecarrusel/Home 8.jpeg";
+import Tienda4 from "../Img/Home/homecarrusel/Home 1.jpeg";
+import Tienda5 from "../Img/Home/homecarrusel/Home 4.jpeg";
 
 const Carousel = () => {
   return (
@@ -58,7 +60,7 @@ const Carousel = () => {
           <div className="carousel-item">
             <img
               className="d-block w-100 img-carousel"
-              src={Tienda1}
+              src={Tienda4}
               alt="Third slide"
             ></img>
             <div class="carousel-caption d-none d-md-block">
@@ -69,7 +71,7 @@ const Carousel = () => {
           <div className="carousel-item">
             <img
               className="d-block w-100 img-carousel"
-              src={Tienda3}
+              src={Tienda5}
               alt="Third slide"
             ></img>
             <div class="carousel-caption d-none d-md-block">

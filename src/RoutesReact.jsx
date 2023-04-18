@@ -21,6 +21,10 @@ import VENTILADORES from "./CompProducts/ventiladores";
 import MONITORES from "./CompProducts/monitores";
 import BATERIAS from "./CompProducts/baterias";
 import IMPRESORAS from "./CompProducts/impresoras";
+import FUNDAS from "./CompProducts/impresoras";
+import SILLAS from "./CompProducts/impresoras";
+import ESCRITORIOS from "./CompProducts/impresoras";
+import HERRAMIENTAS from "./CompProducts/herramientas";
 
 function RoutesReact() {
   return (
@@ -49,6 +53,10 @@ function RoutesReact() {
           <Route exact path="/monitores" element={<MONITORES />}></Route>
           <Route exact path="/baterias" element={<BATERIAS />}></Route>
           <Route exact path="/impresoras" element={<IMPRESORAS />}></Route>
+          <Route exact path="/fundas" element={<FUNDAS />}></Route>
+          <Route exact path="/sillas" element={<SILLAS />}></Route>
+          <Route exact path="/escritorios" element={<ESCRITORIOS />}></Route>
+          <Route exact path="/herramientas" element={<HERRAMIENTAS />}></Route>
 
           <Route exact path="/*/*" element={ <Navigate to='/home'/>}></Route>
         </Routes>

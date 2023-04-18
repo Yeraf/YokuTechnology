@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "img": "https://res.cloudinary.com/demqoasvn/image/upload/v1681253401/Techno%20Noah/Producto%20No%20Disponible/Producto_no_Disponible_db4epj.png",
+        "nameProduct": "Mi producto",
+        "text1": "₡",
+        "text2": "Precio no incluye el envío"
+    },
+    {
+        "id": 2,
+        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1681253401/Techno%20Noah/Producto%20No%20Disponible/Producto_no_Disponible_db4epj.png",
+        "nameProduct": "Mi producto",
+        "text1": "₡",
+        "text2": "Precio no incluye el envío"
+    },
+    {
+        "id": 3,
+        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1681253401/Techno%20Noah/Producto%20No%20Disponible/Producto_no_Disponible_db4epj.png",
+        "nameProduct": "Mi producto",
+        "text1": "₡",
+        "text2": "Precio no incluye el envío"
+    }
+]
+
