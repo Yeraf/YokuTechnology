@@ -1,23 +1,23 @@
 [
     {
         "id": 1,
-        "img": "https://res.cloudinary.com/demqoasvn/image/upload/v1681253401/Techno%20Noah/Producto%20No%20Disponible/Producto_no_Disponible_db4epj.png",
-        "nameProduct": "Mi producto",
-        "text1": "₡",
+        "img": "https://res.cloudinary.com/demqoasvn/image/upload/v1682721461/Techno%20Noah/UPS/UPS_2_o3qrec.png",
+        "nameProduct": "UPS CDP RAVR180",
+        "text1": "₡20.000",
         "text2": "Precio no incluye el envío"
     },
     {
         "id": 2,
-        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1681253401/Techno%20Noah/Producto%20No%20Disponible/Producto_no_Disponible_db4epj.png",
-        "nameProduct": "Mi producto",
-        "text1": "₡",
+        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1682721460/Techno%20Noah/UPS/UPS_1_lyp8kq.png",
+        "nameProduct": "UPS CDP R2CAVR1008",
+        "text1": "₡13.500",
         "text2": "Precio no incluye el envío"
     },
     {
         "id": 3,
-        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1681253401/Techno%20Noah/Producto%20No%20Disponible/Producto_no_Disponible_db4epj.png",
-        "nameProduct": "Mi producto",
-        "text1": "₡",
+        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1682721459/Techno%20Noah/UPS/UPS_3_f0c24k.png",
+        "nameProduct": "UPS NT751 750VA",
+        "text1": "₡45.000",
         "text2": "Precio no incluye el envío"
     }
 ]

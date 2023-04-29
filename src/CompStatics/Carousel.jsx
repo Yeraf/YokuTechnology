@@ -1,10 +1,11 @@
 import React from "react";
 
-import Tienda1 from "../Img/Home/homecarrusel/Home 6.jpeg";
-import Tienda2 from "../Img/Home/homecarrusel/Home 7.jpeg";
-import Tienda3 from "../Img/Home/homecarrusel/Home 8.jpeg";
-import Tienda4 from "../Img/Home/homecarrusel/Home 1.jpeg";
-import Tienda5 from "../Img/Home/homecarrusel/Home 4.jpeg";
+import Tienda1 from "../Img/Home/homecarrusel/Home9.jpeg";
+import Tienda2 from "../Img/Home/homecarrusel/Home10.jpeg";
+import Tienda3 from "../Img/Home/homecarrusel/Home11.jpeg";
+import Tienda4 from "../Img/Home/homecarrusel/Home12.jpeg";
+import Tienda5 from "../Img/Home/homecarrusel/Home13.jpeg";
+import Tienda6 from "../Img/Home/homecarrusel/Home14.jpeg";
 
 const Carousel = () => {
   return (
@@ -72,6 +73,17 @@ const Carousel = () => {
             <img
               className="d-block w-100 img-carousel"
               src={Tienda5}
+              alt="Third slide"
+            ></img>
+            <div class="carousel-caption d-none d-md-block">
+              {/* <h5 className="h5-homme-carousel">Sistema de facturación PDV </h5> */}
+              {/* <a className="link_noah" href="https://noah.cr/login" target={"_blank"}>noah.cr</a> */}
+            </div>
+          </div>
+          <div className="carousel-item">
+            <img
+              className="d-block w-100 img-carousel"
+              src={Tienda6}
               alt="Third slide"
             ></img>
             <div class="carousel-caption d-none d-md-block">

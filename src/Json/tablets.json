@@ -1,16 +1,16 @@
 [
     {
         "id": 1,
-        "img": "https://res.cloudinary.com/demqoasvn/image/upload/v1681253401/Techno%20Noah/Producto%20No%20Disponible/Producto_no_Disponible_db4epj.png", 
-        "nameProduct": "Mi Producto",
-        "text1": "₡",
+        "img": "https://res.cloudinary.com/demqoasvn/image/upload/v1682721399/Techno%20Noah/Tablet/Tablet_Frozen_gbbbqe.png", 
+        "nameProduct": "Tablet Frozen Android",
+        "text1": "₡76.000",
         "text2": "Precio no incluye el envío"
     },
     {
         "id": 2,
-        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1681253401/Techno%20Noah/Producto%20No%20Disponible/Producto_no_Disponible_db4epj.png",
-        "nameProduct": "Mi Producto",
-        "text1": "₡",
+        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1682721398/Techno%20Noah/Tablet/Tablet_Avengers_q3h8yp.png",
+        "nameProduct": "Tablet Avengers Android",
+        "text1": "₡76.000",
         "text2": "Precio no incluye el envío"
     },
     {

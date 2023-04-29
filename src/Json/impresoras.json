@@ -1,23 +1,23 @@
 [
     {
         "id": 1,
-        "img": "https://res.cloudinary.com/demqoasvn/image/upload/v1681253401/Techno%20Noah/Producto%20No%20Disponible/Producto_no_Disponible_db4epj.png",
-        "nameProduct": "Mi producto",
-        "text1": "₡",
+        "img": "https://res.cloudinary.com/demqoasvn/image/upload/v1682721356/Techno%20Noah/Impresoras/Impresora_Epson_Subir_jx7mhd.png",
+        "nameProduct": "Impresora Epson xp2101",
+        "text1": "₡55.000",
         "text2": "Precio no incluye el envío"
     },
     {
         "id": 2,
-        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1681253401/Techno%20Noah/Producto%20No%20Disponible/Producto_no_Disponible_db4epj.png",
-        "nameProduct": "Mi producto",
-        "text1": "₡",
+        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1682721354/Techno%20Noah/Impresoras/Hojas_srofer.png",
+        "nameProduct": "Papel 500 hojas",
+        "text1": "₡3500",
         "text2": "Precio no incluye el envío"
     },
     {
         "id": 3,
-        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1681253401/Techno%20Noah/Producto%20No%20Disponible/Producto_no_Disponible_db4epj.png",
-        "nameProduct": "Mi producto",
-        "text1": "₡",
+        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1682721349/Techno%20Noah/Impresoras/Impresora_HP_Subir_crh5sd.png",
+        "nameProduct": "Impresora HP 3 en 1",
+        "text1": "₡31.000",
         "text2": "Precio no incluye el envío"
     }
 ]
