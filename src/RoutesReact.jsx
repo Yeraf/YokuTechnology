@@ -21,9 +21,9 @@ import VENTILADORES from "./CompProducts/ventiladores";
 import MONITORES from "./CompProducts/monitores";
 import BATERIAS from "./CompProducts/baterias";
 import IMPRESORAS from "./CompProducts/impresoras";
-import FUNDAS from "./CompProducts/impresoras";
-import SILLAS from "./CompProducts/impresoras";
-import ESCRITORIOS from "./CompProducts/impresoras";
+import FUNDAS from "./CompProducts/fundas";
+import SILLAS from "./CompProducts/sillas";
+import ESCRITORIOS from "./CompProducts/escritorios";
 import HERRAMIENTAS from "./CompProducts/herramientas";
 
 function RoutesReact() {

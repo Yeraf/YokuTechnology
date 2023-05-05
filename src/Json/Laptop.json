@@ -1,21 +1,21 @@
 [
     {
         "id": 1,
-        "img": "https://res.cloudinary.com/demqoasvn/image/upload/v1681253401/Techno%20Noah/Producto%20No%20Disponible/Producto_no_Disponible_db4epj.png",
+        "img": "https://res.cloudinary.com/demqoasvn/image/upload/v1683245707/Techno%20Noah/Laptop/HP_640_G2_efzhxb.jpg",
         "nameProduct": "Mi producto",
         "text1": "₡",
         "text2": "Precio no incluye el envío"
     },
     {
         "id": 2,
-        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1681253401/Techno%20Noah/Producto%20No%20Disponible/Producto_no_Disponible_db4epj.png",
+        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1683245704/Techno%20Noah/Laptop/Lenovo_11E_i8qwlk.jpg",
         "nameProduct": "Mi producto",
         "text1": "₡",
         "text2": "Precio no incluye el envío"
     },
     {
         "id": 3,
-        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1681253401/Techno%20Noah/Producto%20No%20Disponible/Producto_no_Disponible_db4epj.png",
+        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1683245701/Techno%20Noah/Laptop/Lenovo_82v6001DUS_k87v46.jpg",
         "nameProduct": "Mi producto",
         "text1": "₡",
         "text2": "Precio no incluye el envío"

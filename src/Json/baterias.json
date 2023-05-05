@@ -19,6 +19,27 @@
         "nameProduct": "UPS NT751 750VA",
         "text1": "₡45.000",
         "text2": "Precio no incluye el envío"
+    },
+    {
+        "id": 4,
+        "img": "https://res.cloudinary.com/demqoasvn/image/upload/v1683245955/Techno%20Noah/UPS/Bateria1_f8ouvv.png",
+        "nameProduct": "Batería Portátil Negra",
+        "text1": "₡26.000",
+        "text2": "Precio no incluye el envío"
+    },
+    {
+        "id": 5,
+        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1683245955/Techno%20Noah/UPS/Bateria2_npucno.png",
+        "nameProduct": "Batería portátil roja",
+        "text1": "₡17.000",
+        "text2": "Precio no incluye el envío"
+    },
+    {
+        "id": 6,
+        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1683245954/Techno%20Noah/UPS/Bateria3_k7st8u.png",
+        "nameProduct": "Soporte Para Celular",
+        "text1": "₡12.000",
+        "text2": "Precio no incluye el envío"
     }
 ]
 

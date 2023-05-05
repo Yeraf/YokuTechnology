@@ -1,23 +1,23 @@
 [
     {
         "id": 1,
-        "img": "https://res.cloudinary.com/demqoasvn/image/upload/v1681253401/Techno%20Noah/Producto%20No%20Disponible/Producto_no_Disponible_db4epj.png",
-        "nameProduct": "Mi producto",
-        "text1": "₡",
+        "img": "https://res.cloudinary.com/demqoasvn/image/upload/v1683245860/Techno%20Noah/Mochilas/Mochila1_jxjja0.png",
+        "nameProduct": "Mochila Dell",
+        "text1": "₡36.500",
         "text2": "Precio no incluye el envío"
     },
     {
         "id": 2,
-        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1681253401/Techno%20Noah/Producto%20No%20Disponible/Producto_no_Disponible_db4epj.png",
-        "nameProduct": "Mi producto",
-        "text1": "₡",
+        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1683245860/Techno%20Noah/Mochilas/Mochila2_kextir.png",
+        "nameProduct": "Mochila Targus Para Laptop",
+        "text1": "₡13.600",
         "text2": "Precio no incluye el envío"
     },
     {
         "id": 3,
-        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1681253401/Techno%20Noah/Producto%20No%20Disponible/Producto_no_Disponible_db4epj.png",
-        "nameProduct": "Mi producto",
-        "text1": "₡",
+        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1683245859/Techno%20Noah/Mochilas/Funda1_lyqbtf.png",
+        "nameProduct": "Estuche Targus para laptop",
+        "text1": "₡12.500",
         "text2": "Precio no incluye el envío"
     }
 ]
