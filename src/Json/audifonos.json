@@ -1,23 +1,45 @@
 [
     {
         "id": 1,
-        "img": "https://res.cloudinary.com/demqoasvn/image/upload/v1681234613/Techno%20Noah/Audifonos/Audifono_3_xnxg7y.png", 
+        "img": "https://res.cloudinary.com/demqoasvn/image/upload/v1683852638/Aud%C3%ADfonos/Audifono_3_xebfcc.png", 
         "nameProduct": "AUDIFONO SPIRAL",
         "text1": "₡9.500",
         "text2":  "Precio no incluye el envío"
     },
     {
         "id": 2,
-        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1681234619/Techno%20Noah/Audifonos/Audifono_1_eceigb.png",
+        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1683852635/Aud%C3%ADfonos/Audifono_1_lis7wl.png",
         "nameProduct": "AUDIFONO MAXELL",
         "text1": "₡12.500",
         "text2":  "Precio no incluye el envío"
     },
     {
         "id": 3,
-        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1681234617/Techno%20Noah/Audifonos/Audifono_2_u7uisg.png",
+        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1683852642/Aud%C3%ADfonos/Audifono_2_z4iqyy.png",
         "nameProduct": "AUDIFONO VORACIS",
         "text1": "₡9.500",
+        "text2":  "Precio no incluye el envío"
+    }
+    ,
+    {
+        "id": 4,
+        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1683852641/Aud%C3%ADfonos/Audifono_4_h23o7x.png",
+        "nameProduct": "Audífonos Halo Sport",
+        "text1": "₡21.500",
+        "text2":  "Precio no incluye el envío"
+    },
+    {
+        "id": 5,
+        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1683852637/Aud%C3%ADfonos/Audifono_6_sqr71z.png",
+        "nameProduct": "Audífonos Klipxtreme",
+        "text1": "₡13.600",
+        "text2":  "Precio no incluye el envío"
+    },
+    {
+        "id": 6,
+        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1683852636/Aud%C3%ADfonos/Audifono_5_vl22f7.png",
+        "nameProduct": "Audífonos Redmi Buds",
+        "text1": "₡16.500",
         "text2":  "Precio no incluye el envío"
     }
 ]

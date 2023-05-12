@@ -1,42 +1,42 @@
 [
     {
         "id": 1,
-        "img": "https://res.cloudinary.com/demqoasvn/image/upload/v1682721461/Techno%20Noah/UPS/UPS_2_o3qrec.png",
+        "img": "https://res.cloudinary.com/demqoasvn/image/upload/v1683853731/Bater%C3%ADas/UPS_2_z1pitq.png",
         "nameProduct": "UPS CDP RAVR180",
         "text1": "₡20.000",
         "text2": "Precio no incluye el envío"
     },
     {
         "id": 2,
-        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1682721460/Techno%20Noah/UPS/UPS_1_lyp8kq.png",
+        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1683853729/Bater%C3%ADas/UPS_1_edd2go.png",
         "nameProduct": "UPS CDP R2CAVR1008",
         "text1": "₡13.500",
         "text2": "Precio no incluye el envío"
     },
     {
         "id": 3,
-        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1682721459/Techno%20Noah/UPS/UPS_3_f0c24k.png",
+        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1683853727/Bater%C3%ADas/UPS_3_jbaeuo.png",
         "nameProduct": "UPS NT751 750VA",
         "text1": "₡45.000",
         "text2": "Precio no incluye el envío"
     },
     {
         "id": 4,
-        "img": "https://res.cloudinary.com/demqoasvn/image/upload/v1683245955/Techno%20Noah/UPS/Bateria1_f8ouvv.png",
+        "img": "https://res.cloudinary.com/demqoasvn/image/upload/v1683853731/Bater%C3%ADas/Bateria1_ii9eed.png",
         "nameProduct": "Batería Portátil Negra",
         "text1": "₡26.000",
         "text2": "Precio no incluye el envío"
     },
     {
         "id": 5,
-        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1683245955/Techno%20Noah/UPS/Bateria2_npucno.png",
+        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1683853728/Bater%C3%ADas/Bateria2_sj9euf.png",
         "nameProduct": "Batería portátil roja",
         "text1": "₡17.000",
         "text2": "Precio no incluye el envío"
     },
     {
         "id": 6,
-        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1683245954/Techno%20Noah/UPS/Bateria3_k7st8u.png",
+        "img":  "https://res.cloudinary.com/demqoasvn/image/upload/v1683853728/Bater%C3%ADas/Bateria3_aiucsj.png",
         "nameProduct": "Soporte Para Celular",
         "text1": "₡12.000",
         "text2": "Precio no incluye el envío"
